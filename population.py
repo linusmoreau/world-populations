@@ -27,7 +27,7 @@ def load_populations():
 
 
 def load_groupings():
-    with open('ideologies.txt', 'r') as f:
+    with open('ideologies.txt', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
@@ -49,7 +49,7 @@ def get_population(name: str, populations):
                  'Cote d Ivoire': 'CIV',
                  'Kyrgyzstan': 'KGZ',
                  'Guinea Bissau': 'GNB',
-                 'Saint Vinvcent and the Grenadines': 'VCT'}
+                 'Saint Vincent and the Grenadines': 'VCT'}
         try:
             tag = names[name]
             temp = populations[tag]['populations']
