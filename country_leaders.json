@@ -1,65 +1,123 @@
 {
-  "Canada":
-  [
-    {"start": 1935, "end": 1957, "ideology": "Liberalism"},
-    {"start": 1957, "end": 1963, "ideology": "Liberal-Conservatism"},
-    {"start": 1963, "end": 1979, "ideology": "Liberalism"},
-    {"start": 1979, "end": 1980, "ideology": "Liberal-Conservatism"},
-    {"start": 1980, "end": 1984, "ideology": "Liberalism"},
-    {"start": 1984, "end": 1993, "ideology": "Liberal-Conservatism"},
-    {"start": 1993, "end": 2006, "ideology": "Liberalism"},
-    {"start": 2006, "end": 2015, "ideology": "Liberal-Conservatism"},
-    {"start": 2015, "end": null, "ideology": "Liberalism"}
-  ],
-  "France": [
-    {"start": 1944, "end": 1946, "ideology": "National-Conservatism"},
-    {"start": 1946, "end": 1947, "ideology": "Socialism"},
-    {"start": 1947, "end": 1948, "ideology": "Liberal-Conservatism"},
-    {"start": 1948, "end": 1949, "ideology": "Liberalism"},
-    {"start": 1949, "end": 1950, "ideology": "Liberal-Conservatism"},
-    {"start": 1950, "end": 1952, "ideology": "Liberalism"},
-    {"start": 1952, "end": 1954, "ideology": "Liberal-Conservatism"},
-    {"start": 1954, "end": 1956, "ideology": "Liberalism"},
-    {"start": 1956, "end": 1957, "ideology": "Social-Democracy"},
-    {"start": 1957, "end": 1958, "ideology": "Liberalism"},
-    {"start": 1958, "end": 1974, "ideology": "National-Conservatism"},
-    {"start": 1974, "end": 1981, "ideology": "Liberal-Conservatism"},
-    {"start": 1981, "end": 1995, "ideology": "Social-Democracy"},
-    {"start": 1995, "end": 2012, "ideology": "Liberal-Conservatism"},
-    {"start": 2012, "end": 2017, "ideology": "Social-Democracy"},
-    {"start": 2017, "end": null, "ideology": "Liberalism"}
-  ],
-  "Mexico": [
-    {"start": 1934, "end": 1940, "ideology": "Socialism"},
-    {"start": 1940, "end": 1946, "ideology": "Liberal-Conservatism"},
-    {"start": 1946, "end": 1958, "ideology": "Liberalism"},
-    {"start": 1958, "end": 1964, "ideology": "Social-Democracy"},
-    {"start": 1964, "end": 1982, "ideology": "National-Conservatism"},
-    {"start": 1982, "end": 2018, "ideology": "Liberal-Conservatism"},
-    {"start": 2018, "end": null, "ideology": "Social-Democracy"}
-  ],
-  "United Kingdom": [
-    {"start": 1935, "end": 1945, "ideology": "Liberal-Conservatism"},
-    {"start": 1945, "end": 1951, "ideology": "Social-Democracy"},
-    {"start": 1951, "end": 1964, "ideology": "Liberal-Conservatism"},
-    {"start": 1964, "end": 1970, "ideology": "Social-Democracy"},
-    {"start": 1970, "end": 1974, "ideology": "Liberal-Conservatism"},
-    {"start": 1974, "end": 1979, "ideology": "Social-Democracy"},
-    {"start": 1979, "end": 1997, "ideology": "Liberal-Conservatism"},
-    {"start": 1997, "end": 2010, "ideology": "Social-Democracy"},
-    {"start": 2010, "end": null, "ideology": "Liberal-Conservatism"}
-  ],
-  "United States": [
-    {"start": 1932, "end": 1953, "ideology": "Liberalism"},
-    {"start": 1953, "end": 1961, "ideology": "Liberal-Conservatism"},
-    {"start": 1961, "end": 1969, "ideology": "Liberalism"},
-    {"start": 1969, "end": 1977, "ideology": "Liberal-Conservatism"},
-    {"start": 1977, "end": 1981, "ideology": "Liberalism"},
-    {"start": 1981, "end": 1993, "ideology": "National-Conservatism"},
-    {"start": 1993, "end": 2001, "ideology": "Liberalism"},
-    {"start": 2001, "end": 2009, "ideology": "National-Conservatism"},
-    {"start": 2009, "end": 2017, "ideology": "Liberalism"},
-    {"start": 2017, "end": 2021, "ideology": "National-Conservatism"},
-    {"start": 2021, "end": null, "ideology": "Liberalism"}
-  ]
+  "Canada": {
+    "Liberalism": [
+      [1935, 1957],
+      [1963, 1979],
+      [1980, 1984],
+      [1993, 2006],
+      [2015, null]
+    ],
+    "Liberal-Conservatism": [
+      [1957, 1963],
+      [1979, 1980],
+      [1984, 1993],
+      [2006, 2015]
+    ]
+  },
+  "France": {
+    "National-Conservatism": [
+      [1944, 1946],
+      [1958, 1974]
+    ],
+    "Liberal-Conservatism": [
+      [1947, 1948],
+      [1949, 1950],
+      [1952, 1954],
+      [1974, 1981],
+      [1995, 2012]
+    ],
+    "Liberalism": [
+      [1948, 1949],
+      [1950, 1952],
+      [1954, 1956],
+      [1957, 1958],
+      [2017, null]
+    ],
+    "Socialism": [
+      [1946, 1947]
+    ],
+    "Social-Democracy": [
+      [1956, 1957],
+      [1981, 1995],
+      [2012, 2017]
+    ]
+  },
+  "Italy": {
+    "Liberal-Conservative": [
+      [1945, 1981],
+      [1982, 1983],
+      [1987, 1992],
+      [1994, 1995],
+      [2001, 2006],
+      [2008, 2011]
+    ],
+    "Liberal": [
+      [1981, 1982],
+      [1993, 1994],
+      [1995, 1996],
+      [2011, 2013],
+      [2018, null]
+    ],
+    "Social-Democracy": [
+      [1983, 1987],
+      [1992, 1993],
+      [1996, 2001],
+      [2006, 2008],
+      [2013, 2018]
+    ]
+  },
+  "Mexico": {
+    "National-Conservatism": [
+      [1944, 1946],
+      [1964, 1982]
+    ],
+    "Liberal-Conservatism": [
+      [1940, 1946],
+      [1982, 2018]
+    ],
+    "Liberalism": [
+      [1946, 1958]
+    ],
+    "Socialism": [
+      [1934, 1940]
+    ],
+    "Social-Democracy": [
+      [1958, 1964],
+      [2018, null]
+    ]
+  },
+  "United Kingdom": {
+    "Liberal-Conservatism": [
+      [1935, 1945],
+      [1951, 1964],
+      [1970, 1974],
+      [1979, 1997],
+      [2010, null]
+    ],
+    "Social-Democracy": [
+      [1945, 1951],
+      [1964, 1970],
+      [1974, 1979],
+      [1997, 2010]
+    ]
+  },
+  "United States": {
+    "Liberalism": [
+      [1932, 1953],
+      [1961, 1969],
+      [1977, 1981],
+      [1993, 2001],
+      [2009, 2017],
+      [2021, null]
+    ],
+    "Liberal-Conservatism": [
+      [1953, 1961],
+      [1969, 1977]
+    ],
+    "National-Conservatism": [
+      [1981, 1993],
+      [2001, 2009],
+      [2017, 2021]
+    ]
+  }
 }
