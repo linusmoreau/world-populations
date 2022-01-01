@@ -40,6 +40,17 @@
       [1945, 1949]
     ]
   },
+  "Cuba": {
+    "Social-Democracy": [
+      [1944, 1952]
+    ],
+    "Military Rule": [
+      [1952, 1959]
+    ],
+    "Communism": [
+      [1959, null]
+    ]
+  },
   "Denmark": {
     "Liberalism": [
       [1945, 1947],
