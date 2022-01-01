@@ -62,6 +62,21 @@
       [1982, 1993]
     ]
   },
+  "El Salvador": {
+    "Military Rule": [
+      [1931, 1982]
+    ],
+    "Liberal-Conservative": [
+      [1982, 1989],
+      [2019, null]
+    ],
+    "National-Conservative": [
+      [1989, 2009]
+    ],
+    "Socialism": [
+      [2009, 2019]
+    ]
+  },
   "Finland": {
     "Liberal-Conservatism": [
       [1944, 1946],
