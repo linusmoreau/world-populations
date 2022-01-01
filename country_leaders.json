@@ -364,6 +364,21 @@
       [2010, null]
     ]
   },
+  "Nicaragua": {
+    "National-Conservatism": [
+      [1936, 1979]
+    ],
+    "Military Rule": [
+      [1979, 1985]
+    ],
+    "Socialism": [
+      [1985, 1990],
+      [2007, null]
+    ],
+    "Liberalism": [
+      [1990, 2007]
+    ]
+  },
   "Norway": {
     "Social-Democracy": [
       [1945, 1965],
