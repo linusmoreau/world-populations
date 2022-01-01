@@ -121,7 +121,7 @@
     ]
   },
   "Germany": {
-    "Miliary Rule": [
+    "Military Rule": [
       [1945, 1949]
     ],
     "Liberal-Conservative": [
@@ -133,6 +133,14 @@
       [1969, 1982],
       [1998, 2005],
       [2021, null]
+    ]
+  },
+  "Germany, East": {
+    "Military Rule": [
+      [1945, 1949]
+    ],
+    "Communism": [
+      [1949, 1990]
     ]
   },
   "Greece": {
@@ -194,6 +202,25 @@
     ],
     "Socialism": [
       [2017, null]
+    ]
+  },
+  "India": {
+    "Social-Democracy": [
+      [1947, 1966],
+      [1977, 1980],
+      [1984, 1991]
+    ],
+    "Socialism": [
+      [1966, 1977],
+      [1980, 1984]
+    ],
+    "Liberalism": [
+      [1991, 1998],
+      [2004, 2014]
+    ],
+    "National-Conservatism": [
+      [1998, 2004],
+      [2014, null]
     ]
   },
   "Italy": {
