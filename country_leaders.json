@@ -260,6 +260,30 @@
       [2020, null]
     ]
   },
+  "Haiti": {
+    "Liberalism": [
+      [1941, 1946],
+      [1956, 1957],
+      [1990, 1991],
+      [2017, 2021]
+    ],
+    "Military Rule": [
+      [1986, 1990],
+      [1991, 1993],
+      [2004, 2006]
+    ],
+    "Social-Democracy": [
+      [1946, 1956],
+      [1993, 2004]
+    ],
+    "National-Conservatism": [
+      [1957, 1986]
+    ],
+    "Liberal-Conservatism": [
+      [2006, 2017],
+      [2021, null]
+    ]
+  },
   "Honduras": {
     "National-Conservativism": [
       [1933, 1956],
