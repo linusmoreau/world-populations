@@ -431,6 +431,18 @@
       [2018, null]
     ]
   },
+  "Mongolia": {
+    "Communism": [
+      [1924, 1990]
+    ],
+    "Social-Democracy": [
+      [1990, 2009],
+      [2021, null]
+    ],
+    "Liberal-Conservatism": [
+      [2009, 2021]
+    ]
+  },
   "Netherlands": {
     "Social-Democracy": [
       [1945, 1946],
