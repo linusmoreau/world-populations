@@ -401,6 +401,30 @@
       [2013, 2018]
     ]
   },
+  "Korea, North": {
+    "Communism": [
+      [1945, null]
+    ]
+  },
+  "Korea, South": {
+    "Military Rule": [
+      [1945, 1948],
+      [1962, 1963]
+    ],
+    "National-Conservatism": [
+      [1948, 1960],
+      [1963, 1988],
+      [2008, 2017]
+    ],
+    "Liberal": [
+      [1960, 1962],
+      [1998, 2008],
+      [2017, null]
+    ],
+    "Liberal-Conservatism": [
+      [1988, 1998]
+    ]
+  },
   "Luxembourg": {
     "Liberal-Conservatism": [
       [1937, 1974],
