@@ -794,5 +794,25 @@
       [2001, 2009],
       [2017, 2021]
     ]
+  },
+  "Vietnam": {
+    "Military Rule": [
+      [1945, 1953]
+    ],
+    "Communism": [
+      [1953, null]
+    ]
+  },
+  "Vietnam, South": {
+    "Monarchism": [
+      [1953, 1955]
+    ],
+    "National-Conservatism": [
+      [1955, 1963],
+      [1967, 1975]
+    ],
+    "Military Rule": [
+      [1963, 1967]
+    ]
   }
 }
