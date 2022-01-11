@@ -402,6 +402,24 @@
       [2014, null]
     ]
   },
+  "Indonesia": {
+    "Socialism": [
+      [1945, 1967]
+    ],
+    "Military Rule": [
+      [1967, 1998]
+    ],
+    "National-Conservatism": [
+      [1998, 2001]
+    ],
+    "Social-Democracy": [
+      [2001, 2004],
+      [2014, null]
+    ],
+    "Liberalism": [
+      [2004, 2014]
+    ]
+  },
   "Ireland": {
     "Liberalism": [
       [1932, 1948],
