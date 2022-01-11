@@ -816,6 +816,25 @@
       [2017, 2021]
     ]
   },
+  "Venezuela": {
+    "Social-Democracy": [
+      [1945, 1948],
+      [1959, 1969],
+      [1974, 1979],
+      [1984, 1994]
+    ],
+    "Military Rule": [
+      [1948, 1959]
+    ],
+    "Liberal-Conservatism": [
+      [1969, 1974],
+      [1979, 1984],
+      [1994, 1999]
+    ],
+    "Socialism": [
+      [1999, null]
+    ]
+  },
   "Vietnam": {
     "Military Rule": [
       [1945, 1953]
