@@ -68,6 +68,31 @@
       [2006, 2015]
     ]
   },
+  "Chile": {
+    "Liberalism": [
+      [1932, 1952]
+    ],
+    "National-Conservatism": [
+      [1952, 1958]
+    ],
+    "Liberal-Conservatism": [
+      [1958, 1970],
+      [1990, 2000],
+      [2010, 2014],
+      [2018, 2022]
+    ],
+    "Socialist": [
+      [1970, 1973],
+      [2022, null]
+    ],
+    "Military Rule": [
+      [1973, 1990]
+    ],
+    "Social-Democracy": [
+      [2000, 2010],
+      [2014, 2018]
+    ]
+  },
   "China": {
     "Communism": [
       [1949, null]
