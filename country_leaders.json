@@ -110,6 +110,28 @@
       [2005, 2006]
     ]
   },
+  "Brazil": {
+    "Liberalism": [
+      [1945, 1946],
+      [1985, 2002],
+      [2016, 2018]
+    ],
+    "Liberal-Conservatism": [
+      [1946, 1951],
+      [1954, 1961]
+    ],
+    "Social-Democracy": [
+      [1951, 1954],
+      [1961, 1964],
+      [2003, 2016]
+    ],
+    "Military Rule": [
+      [1964, 1985]
+    ],
+    "National-Conservatism": [
+      [2018, null]
+    ]
+  },
   "Canada": {
     "Liberalism": [
       [1935, 1957],
