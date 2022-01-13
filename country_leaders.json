@@ -434,6 +434,16 @@
       [2020, null]
     ]
   },
+  "Guyana": {
+    "Socialism": [
+      [1992, 2015],
+      [2020, null]
+    ],
+    "Social-Democracy": [
+      [1966, 1992],
+      [2015, 2020]
+    ]
+  },
   "Haiti": {
     "Liberalism": [
       [1941, 1946],
