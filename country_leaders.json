@@ -256,6 +256,21 @@
       [1982, 1993]
     ]
   },
+  "Dominican Republic": {
+    "National-Conservativism": [
+      [1930, 1962],
+      [1966, 1978],
+      [1986, 1996]
+    ],
+    "Social-Democracy": [
+      [1962, 1963],
+      [1978, 1986],
+      [1996, null]
+    ],
+    "Military Rule": [
+      [1963, 1966]
+    ]
+  },
   "Ecuador": {
     "Liberal-Conservatism": [
       [1944, 1948],
