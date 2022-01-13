@@ -618,6 +618,19 @@
       [2013, 2018]
     ]
   },
+  "Jamaica": {
+    "National-Conservatism": [
+      [1962, 1972],
+      [1980, 1989],
+      [2007, 2012],
+      [2016, null]
+    ],
+    "Social-Democracy": [
+      [1972, 1980],
+      [1989, 2007],
+      [2012, 2016]
+    ]
+  },
   "Korea, North": {
     "Communism": [
       [1945, null]
