@@ -76,6 +76,20 @@
       [2008, 2020]
     ]
   },
+  "Bhutan": {
+    "Monarchism": [
+      [1945, 2008]
+    ],
+    "National-Conservatism": [
+      [2008, 2013]
+    ],
+    "Liberalism": [
+      [2013, 2018]
+    ],
+    "Social-Democracy": [
+      [2018, null]
+    ]
+  },
   "Bolivia": {
     "National-Conservatism": [
       [1943, 1946],
