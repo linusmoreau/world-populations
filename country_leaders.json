@@ -146,6 +146,20 @@
       [2018, null]
     ]
   },
+  "Cambodia": {
+    "National-Conservatism": [
+      [1991, null]
+    ],
+    "Communism": [
+      [1975, 1991]
+    ],
+    "Military Rule": [
+      [1970, 1975]
+    ],
+    "Monarchism": [
+      [1953, 1970]
+    ]
+  },
   "Canada": {
     "Liberalism": [
       [1935, 1957],
