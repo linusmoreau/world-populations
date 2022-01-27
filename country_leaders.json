@@ -715,6 +715,19 @@
       [2013, null]
     ]
   },
+  "Malaya": {
+    "Colonialism": [
+      [1945, 1957]
+    ],
+    "National-Conservatism": [
+      [1957, 1965]
+    ]
+  },
+  "Malaysia": {
+    "National-Conservatism": [
+      [1965, null]
+    ]
+  },
   "Mexico": {
     "National-Conservatism": [
       [1944, 1946],
