@@ -1327,5 +1327,16 @@
     "Military Rule": [
       [1963, 1967]
     ]
+  },
+  "Yugoslavia": {
+    "Communism": [
+      [1945, 1990]
+    ],
+    "Liberalism": [
+      [1990, 1991]
+    ],
+    "Social-Democracy": [
+      [1991, 1992]
+    ]
   }
 }
