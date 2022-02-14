@@ -613,6 +613,24 @@
       [2022, null]
     ]
   },
+  "Hungary": {
+    "Liberalism": [
+      [1945, 1947]
+    ],
+    "Communism": [
+      [1948, 1989]
+    ],
+    "Social-Democracy": [
+      [1989, 1990],
+      [1994, 1998],
+      [2002, 2010]
+    ],
+    "National-Conservatism": [
+      [1990, 1994],
+      [1998, 2002],
+      [2010, null]
+    ]
+  },
   "Iceland": {
     "Liberal-Conservativism": [
       [1944, 1947],
