@@ -1292,6 +1292,20 @@
       [1945, 1950]
     ]
   },
+  "Ukraine": {
+    "Social-Democracy": [
+      [1991, 1994]
+    ],
+    "Liberalism": [
+      [1994, 2005],
+      [2010, 2014],
+      [2019, null]
+    ],
+    "Liberal-Conservatism": [
+      [2005, 2010],
+      [2014, 2019]
+    ]
+  },
   "United Kingdom": {
     "Liberal-Conservatism": [
       [1935, 1945],
