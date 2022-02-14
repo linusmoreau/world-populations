@@ -365,6 +365,22 @@
       [2009, 2019]
     ]
   },
+  "Estonia": {
+    "Liberalism": [
+      [1990, 1992],
+      [1995, 1999],
+      [2002, 2003],
+      [2005, null]
+    ],
+    "National-Conservatism": [
+      [1992, 1994],
+      [1999, 2002],
+      [2003, 2005]
+    ],
+    "Social-Democracy": [
+      [1994, 1995]
+    ]
+  },
   "Finland": {
     "Liberal-Conservatism": [
       [1944, 1946],
