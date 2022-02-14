@@ -752,6 +752,22 @@
       [2009, null]
     ]
   },
+  "Lithuania": {
+    "Liberalism": [
+      [1990, 1992],
+      [2000, 2001]
+    ],
+    "Social-Democracy": [
+      [1992, 1996],
+      [2001, 2008],
+      [2012, 2016]
+    ],
+    "Liberal-Conservatism": [
+      [1996, 2000],
+      [2008, 2012],
+      [2016, null]
+    ]
+  },
   "Luxembourg": {
     "Liberal-Conservatism": [
       [1937, 1974],
