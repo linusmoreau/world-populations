@@ -311,6 +311,20 @@
       [2017, 2021]
     ]
   },
+  "Czechoslovakia": {
+    "Social-Democracy": [
+      [1945, 1946]
+    ],
+    "Communism": [
+      [1946, 1989]
+    ],
+    "Liberal-Conservatism": [
+      [1992, 1993]
+    ],
+    "Liberalism": [
+      [1989, 1992]
+    ]
+  },
   "Denmark": {
     "Liberalism": [
       [1945, 1947],
