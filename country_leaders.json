@@ -735,6 +735,23 @@
       [1975, null]
     ]
   },
+  "Latvia": {
+    "Liberalism": [
+      [1990, 1993],
+      [1998, 1999],
+      [2000, 2002],
+      [2007, 2009]
+    ],
+    "National-Conservatism": [
+      [1995, 1998],
+      [1999, 2000],
+      [2004, 2007]
+    ],
+    "Liberal-Conservatism": [
+      [2002, 2004],
+      [2009, null]
+    ]
+  },
   "Luxembourg": {
     "Liberal-Conservatism": [
       [1937, 1974],
