@@ -685,6 +685,25 @@
       [2004, 2014]
     ]
   },
+  "Iran": {
+    "National-Conservatism": [
+      [1946, 1947],
+      [1979, null]
+    ],
+    "Monarchism": [
+      [1953, 1979]
+    ],
+    "Liberalism": [
+      [1945, 1946],
+      [1947, 1950]
+    ],
+    "Military Rule": [
+      [1950, 1951]
+    ],
+    "Social-Democracy": [
+      [1951, 1953]
+    ]
+  },
   "Ireland": {
     "Liberalism": [
       [1932, 1948],
