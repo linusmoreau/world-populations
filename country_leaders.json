@@ -1179,6 +1179,29 @@
       [1991, 1999]
     ]
   },
+  "Serbia": {
+    "National-Conservatism": [
+      [2006, 2008]
+    ],
+    "Liberalism": [
+      [2008, 2012]
+    ],
+    "Social-Democracy": [
+      [2012, 2014]
+    ],
+    "Liberal-Conservatism": [
+      [2014, null]
+    ]
+  },
+  "Serbia and Montenegro": {
+    "Social-Democracy": [
+      [1993, 2000],
+      [2003, 2006]
+    ],
+    "National-Conservatism": [
+      [2000, 2003]
+    ]
+  },
   "Soviet Union": {
     "Communism": [
       [1922, 1991]
@@ -1514,6 +1537,9 @@
     ],
     "Social-Democracy": [
       [1991, 1992]
+    ],
+    "Socialism": [
+      [1992, 1993]
     ]
   }
 }
