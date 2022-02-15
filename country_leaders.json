@@ -207,6 +207,32 @@
       [2019, null]
     ]
   },
+  "Bulgaria": {
+    "National-Conservatism": [
+      [1944, 1946]
+    ],
+    "Communism": [
+      [1946, 1990]
+    ],
+    "Liberalism": [
+      [1990, 1991],
+      [1992, 1994],
+      [2001, 2005],
+      [2021, null]
+    ],
+    "Liberal-Conservatism": [
+      [1991, 1992],
+      [1994, 1995],
+      [1997, 2001],
+      [2009, 2013],
+      [2016, 2021]
+    ],
+    "Social-Democracy": [
+      [1994, 1997],
+      [2005, 2009],
+      [2013, 2016]
+    ]
+  },
   "Cambodia": {
     "National-Conservatism": [
       [1991, null]
