@@ -1,13 +1,16 @@
 {
-  "Austria": {
-    "Liberal-Conservatism": [
-      [1945, 1970],
-      [2000, 2007],
-      [2017, null]
+  "Albania": {
+    "Communism": [
+      [1944, 1991]
     ],
     "Social-Democracy": [
-      [1970, 2000],
-      [2007, 2017]
+      [1991, 1992],
+      [1997, 2005],
+      [2013, null]
+    ],
+    "Liberal-Conservatism": [
+      [1992, 1997],
+      [2005, 2013]
     ]
   },
   "Argentina": {
@@ -45,6 +48,17 @@
       [1975, 1983],
       [1996, 2007],
       [2013, null]
+    ]
+  },
+  "Austria": {
+    "Liberal-Conservatism": [
+      [1945, 1970],
+      [2000, 2007],
+      [2017, null]
+    ],
+    "Social-Democracy": [
+      [1970, 2000],
+      [2007, 2017]
     ]
   },
   "Bangladesh": {
