@@ -1231,6 +1231,21 @@
       [2011, 2015]
     ]
   },
+  "Romania": {
+    "Communism": [
+      [1945, 1989]
+    ],
+    "Social-Democracy": [
+      [1989, 1996],
+      [2000, 2004]
+    ],
+    "National-Conservatism": [
+      [1996, 2000]
+    ],
+    "Liberal-Conservatism": [
+      [2004, null]
+    ]
+  },
   "Russia": {
     "National Conservatism": [
       [1999, null]
