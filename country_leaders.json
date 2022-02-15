@@ -284,6 +284,17 @@
       [1998, 2006]
     ]
   },
+  "Croatia": {
+    "Liberal-Conservatism": [
+      [1990, 2000],
+      [2003, 2011],
+      [2016, null]
+    ],
+    "Social-Democracy": [
+      [2000, 2003],
+      [2011, 2016]
+    ]
+  },
   "Cuba": {
     "Social-Democracy": [
       [1944, 1952]
