@@ -889,6 +889,17 @@
       [2013, null]
     ]
   },
+  "Macedonia": {
+    "Social-Democracy": [
+      [1992, 1998],
+      [2002, 2006],
+      [2017, null]
+    ],
+    "National-Conservatism": [
+      [1998, 2002],
+      [2006, 2017]
+    ]
+  },
   "Malaya": {
     "Colonialism": [
       [1945, 1957]
