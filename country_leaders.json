@@ -972,6 +972,27 @@
       [2018, null]
     ]
   },
+  "Moldova": {
+    "Liberalism": [
+      [1991, 1992],
+      [1997, 2001],
+      [2015, 2016],
+      [2020, null]
+    ],
+    "Social-Democracy": [
+      [1992, 1997],
+      [2016, 2019]
+    ],
+    "Communism": [
+      [2001, 2009]
+    ],
+    "Liberal-Conservatism": [
+      [2009, 2015]
+    ],
+    "Socialism": [
+      [2019, 2020]
+    ]
+  },
   "Mongolia": {
     "Communism": [
       [1924, 1990]
