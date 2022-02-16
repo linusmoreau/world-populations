@@ -542,6 +542,18 @@
       [2012, 2017]
     ]
   },
+  "Georgia": {
+    "Social-Democracy": [
+      [1992, 2003],
+      [2013, null]
+    ],
+    "Liberalism": [
+      [2003, 2013]
+    ],
+    "National-Conservatism": [
+      [1991, 1992]
+    ]
+  },
   "Germany": {
     "Military Rule": [
       [1945, 1949]
