@@ -1,4 +1,20 @@
 {
+  "Afghanistan": {
+    "Monarchism": [
+      [1933, 1973]
+    ],
+    "National-Conservatism": [
+      [1973, 1978],
+      [1992, 2001],
+      [2021, null]
+    ],
+    "Communism": [
+      [1978, 1992]
+    ],
+    "Liberalism": [
+      [2001, 2021]
+    ]
+  },
   "Albania": {
     "Communism": [
       [1944, 1991]
@@ -913,6 +929,18 @@
       [1961, null]
       ]
   },
+  "Kyrgyzstan": {
+    "Liberal-Conservatism": [
+      [1990, 2005]
+    ],
+    "National-Conservatism": [
+      [2005, 2010],
+      [2020, null]
+    ],
+    "Social-Democracy": [
+      [2010, 2020]
+    ]
+  },
   "Laos": {
     "Monarchism": [
       [1953, 1975]
@@ -1557,6 +1585,14 @@
       [2016, null]
     ]
   },
+  "Tajikistan": {
+    "Communism": [
+      [1991, 1992]
+    ],
+    "National-Conservatism": [
+      [1992, null]
+    ]
+  },
   "Thailand": {
     "National-Conservatism": [
       [1945, 1947],
@@ -1618,6 +1654,11 @@
     "National-Conservatism": [
       [1996, 1997],
       [2002, null]
+    ]
+  },
+  "Turkmenistan": {
+    "National-Conservatism": [
+      [1990, null]
     ]
   },
   "Ukraine": {
@@ -1691,6 +1732,11 @@
     ],
     "Socialism": [
       [2005, 2020]
+    ]
+  },
+  "Uzbekistan": {
+    "National-Conservatism": [
+      [1990, null]
     ]
   },
   "Venezuela": {
