@@ -36,6 +36,18 @@
       [2015, 2019]
     ]
   },
+  "Armenia": {
+    "Liberalism": [
+      [1991, 1998],
+      [2018, null]
+    ],
+    "Social-Democracy": [
+      [1998, 2008]
+    ],
+    "National-Conservatism": [
+      [2008, 2018]
+    ]
+  },
   "Australia": {
     "Social-Democracy": [
       [1941, 1949],
