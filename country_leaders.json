@@ -1400,6 +1400,18 @@
       [2000, 2003]
     ]
   },
+  "South Africa": {
+    "Liberal-Conservatism": [
+      [1945, 1948],
+      [1990, 1994]
+    ],
+    "National-Conservatism": [
+      [1948, 1990]
+    ],
+    "Social-Democracy": [
+      [1994, null]
+    ]
+  },
   "Soviet Union": {
     "Communism": [
       [1922, 1991]
