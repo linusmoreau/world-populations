@@ -1082,6 +1082,23 @@
       [2020, null]
     ]
   },
+  "Myanmar": {
+    "Liberalism": [
+      [2016, 2021]
+    ],
+    "Military Rule": [
+      [1958, 1960],
+      [1988, 2010],
+      [2021, null]
+    ],
+    "National-Conservatism": [
+      [2010, 2011]
+    ],
+    "Socialism": [
+      [1948, 1958],
+      [1960, 1988]
+    ]
+  },
   "Nepal": {
     "Monarchism": [
       [1945, 1959],
