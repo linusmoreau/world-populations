@@ -221,6 +221,14 @@
       [2018, null]
     ]
   },
+  "Botswana": {
+    "Liberal-Conservatism": [
+      [1966, null]
+    ],
+    "Colonialism": [
+      [1945, 1966]
+    ]
+  },
   "Brazil": {
     "Liberalism": [
       [1945, 1946],
