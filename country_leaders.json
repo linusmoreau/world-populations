@@ -1849,5 +1849,19 @@
     "Socialism": [
       [1992, 1993]
     ]
+  },
+  "Zimbabwe": {
+    "Socialism": [
+      [1980, null]
+    ],
+    "Liberalism": [
+      [1979, 1980]
+    ],
+    "National-Conservatism": [
+      [1965, 1979]
+    ],
+    "Colonialism": [
+      [1945, 1965]
+    ]
   }
 }
