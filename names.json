@@ -23,7 +23,6 @@
     "Fiji_British_Colony_1946_1969",
     "French_Cameroon_1946_1959",
     "French_Equatorial_Africa_1946_1959",
-    "French_Guiana_1946_2016",
     "French_Indochina_1946_1952",
     "French_Morroco_1946_1955",
     "French_Somaliland_1946_1966",
@@ -48,6 +47,7 @@
     "Spanish_Sahara_1946_1975",
     "Sultanate_of_Muscat_and_Oman_British_1946_1970",
     "Swaziland_British_1946_1967",
+    "Territory_of_Papua_New_Guinea_1946_1974",
     "Tunisia_French_Colony_1946_1955",
     "Uganda_Protectorate_1946_1961"
   ],
@@ -146,7 +146,8 @@
     "Czechoslovakia_1946_1992"
   ],
   "Denmark": [
-    "Denmark_1946_2016"
+    "Denmark_1946_2016",
+    "Greenland_1946_2016"
   ],
   "Dominican Republic": [
     "Dominican_Republic_1946_2016"
@@ -164,7 +165,8 @@
     "Finland_1946_2016"
   ],
   "France": [
-    "France_1946_2016"
+    "France_1946_2016",
+    "French_Guiana_1946_2016"
   ],
   "Georgia": [
     "Georgia_1991_2016"
@@ -409,7 +411,8 @@
     "United_Arab_Emirates_1971_2016"
   ],
   "United Kingdom": [
-    "United_Kingdom_1946_2016"
+    "United_Kingdom_1946_2016",
+    "Newfoundland_1946_1948"
   ],
   "United States": [
     "United_States_1946_2016"

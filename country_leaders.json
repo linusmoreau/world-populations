@@ -457,7 +457,7 @@
     ]
   },
   "Dominican Republic": {
-    "National-Conservativism": [
+    "National-Conservatism": [
       [1930, 1962],
       [1966, 1978],
       [1986, 1996]
@@ -734,7 +734,7 @@
     ]
   },
   "Honduras": {
-    "National-Conservativism": [
+    "National-Conservatism": [
       [1933, 1956],
       [1971, 1962],
       [1990, 1994],
@@ -760,6 +760,9 @@
     "Liberalism": [
       [1945, 1947]
     ],
+    "Socialism": [
+      [1947, 1948]
+    ],
     "Communism": [
       [1948, 1989]
     ],
@@ -775,7 +778,7 @@
     ]
   },
   "Iceland": {
-    "Liberal-Conservativism": [
+    "Liberal-Conservatism": [
       [1944, 1947],
       [1949, 1950],
       [1953, 1956],
@@ -1428,7 +1431,7 @@
     ]
   },
   "Russia": {
-    "National Conservatism": [
+    "National-Conservatism": [
       [1999, null]
     ],
     "Liberalism": [
