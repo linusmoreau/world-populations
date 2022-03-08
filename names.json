@@ -55,7 +55,11 @@
     "Germany_French_Occupied_1946_1948",
     "Germany_Soviet_Occupied_1946_1948",
     "Germany_USA_Occupied_1946_1948",
-    "Germany_British_Occupied_1946_1948"
+    "Germany_British_Occupied_1946_1948",
+    "Austria_British_Occupied_1946_1954",
+    "Austria_French_Occupied_1946_1954",
+    "Austria_USA_Occupied_1946_1954",
+    "Austria_USSR_Occupied_1946_1954"
   ],
   "Afghanistan": [
     "Afghanistan_1946_2016"
@@ -73,11 +77,7 @@
     "Australia_1946_2016"
   ],
   "Austria": [
-    "Austria_1955_2016",
-    "Austria_British_Occupied_1946_1954",
-    "Austria_French_Occupied_1946_1954",
-    "Austria_USA_Occupied_1946_1954",
-    "Austria_USSR_Occupied_1946_1954"
+    "Austria_1955_2016"
   ],
   "Azerbaijan": [
     "Azerbaijan_1991_2016"
@@ -139,7 +139,9 @@
   "Cuba": [
     "Cuba_1946_2016"
   ],
-  "Czechia": [],
+  "Czechia": [
+    "Czech_Republic_1993_2016"
+  ],
   "Czechoslovakia": [
     "Czechoslovakia_1946_1992"
   ],
@@ -184,14 +186,12 @@
     "Guatemala_1946_2016"
   ],
   "Guyana": [
-    "British_Guyana_1946_1965",
     "Guyana_1966_2016"
   ],
   "Haiti": [
     "Haiti_1946_2016"
   ],
   "Honduras": [
-    "British_Honduras_1946_1980",
     "Honduras_1946_2016"
   ],
   "Hungary": [
@@ -220,8 +220,7 @@
     "Italy_1946_2016"
   ],
   "Jamaica": [
-    "Jamaica_1962_2016",
-    "Jamaica_British_Colony_1946_1961"
+    "Jamaica_1962_2016"
   ],
   "Jordan": [
     "Jordan_1946_2016"
@@ -261,7 +260,9 @@
   "Luxembourg": [
     "Luxembourg_1946_2016"
   ],
-  "Macedonia": [],
+  "Macedonia": [
+    "FYROM_1993_2016"
+  ],
   "Malaya": [
     "Federation_of_Malaya_1946_1962"
   ],
@@ -279,12 +280,10 @@
     "Mongolia_1946_2016"
   ],
   "Montenegro": [
-    "Montenegro_2006_2016",
-    "Serbia_and_Montenegro_1993_2006"
+    "Montenegro_2006_2016"
   ],
   "Mozambique": [
-    "Mozambique_1975_2016",
-    "Portuguese_Mozambique_1946_1974"
+    "Mozambique_1975_2016"
   ],
   "Myanmar": [
     "Myanmar_1948_2016"
@@ -296,8 +295,7 @@
     "Nepal_1946_2016"
   ],
   "Netherlands": [
-    "Netherlands_1946_2016",
-    "Netherlands_New_Guinea_1949_1962"
+    "Netherlands_1946_2016"
   ],
   "New Zealand": [
     "New_Zealand_1946_2016"
@@ -309,8 +307,7 @@
     "Norway_1946_2016"
   ],
   "Oman": [
-    "Oman_1971_2016",
-    "Sultanate_of_Muscat_and_Oman_British_1946_1970"
+    "Oman_1971_2016"
   ],
   "Pakistan": [
     "Pakistan_1946_1948",
@@ -336,7 +333,6 @@
     "Portugal_1946_2016"
   ],
   "Qatar": [
-    "British_Qatar_1946_1970",
     "Qatar_1971_2016"
   ],
   "Romania": [
@@ -380,7 +376,6 @@
     "Sri_Lanka_1948_2016"
   ],
   "Suriname": [
-    "Dutch_Suriname_1946_1974",
     "Suriname_1975_2016"
   ],
   "Sweden": [
@@ -429,18 +424,20 @@
     "Venezuela_1946_2016"
   ],
   "Vietnam": [
+    "Republic_of_Vietnam_1946_1953",
     "Vietnam_1954_1974",
     "Vietnam_1975_2016"
   ],
   "Vietnam, South": [
-    "Republic_of_Vietnam_1946_1953",
     "Republic_of_Vietnam_1954_1974"
   ],
   "Yugoslavia": [
     "Yugoslavia_1946_1991",
-    "Yugoslavia_1992_1992"
+    "Yugoslavia_1992_1992",
+    "Serbia_and_Montenegro_1993_2006"
   ],
   "Zimbabwe": [
+    "Rhodesia_1965_1979",
     "Zimbabwe_1980_2016"
   ]
 }
