@@ -498,6 +498,26 @@
       [2007, 2021]
     ]
   },
+  "Egypt": {
+    "Liberalism": [
+      [1945, 1952]
+    ],
+    "Military Rule": [
+      [1952, 1956],
+      [2011, 2012],
+      [2013, 2014]
+    ],
+    "Socialism": [
+      [1956, 1978]
+    ],
+    "Social-Democracy": [
+      [1978, 2011]
+    ],
+    "National-Conservatism": [
+      [2012, 2013],
+      [2014, null]
+    ]
+  },
   "El Salvador": {
     "Military Rule": [
       [1931, 1982]
