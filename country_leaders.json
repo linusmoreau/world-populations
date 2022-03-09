@@ -1725,6 +1725,24 @@
       [2020, 2021]
     ]
   },
+  "Syria": {
+    "National-Conservatism": [
+      [1946, 1950],
+      [1956, 1958],
+      [1961, 1963]
+    ],
+    "Liberalism": [
+      [1950, 1951],
+      [1954, 1956]
+    ],
+    "Military Rule": [
+      [1951, 1953]
+    ],
+    "Socialism": [
+      [1953, 1954],
+      [1963, null]
+    ]
+  },
   "Taiwan": {
     "National-Conservatism": [
       [1949, 2000],
