@@ -1993,6 +1993,30 @@
       [1963, 1967]
     ]
   },
+  "Yemen": {
+    "National-Conservatism": [
+      [1990, 2012]
+    ],
+    "Military Rule": [
+      [2012, null]
+    ]
+  },
+  "Yemen, North": {
+    "Monarchism": [
+      [1918, 1962]
+    ],
+    "Military Rule": [
+      [1962, 1982]
+    ],
+    "National-Conservatism": [
+      [1982, 1990]
+    ]
+  },
+  "Yemen, South": {
+    "Communism": [
+      [1967, 1990]
+    ]
+  },
   "Yugoslavia": {
     "Communism": [
       [1945, 1990]
