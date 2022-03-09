@@ -850,6 +850,28 @@
       [2004, 2014]
     ]
   },
+  "Iraq": {
+    "Monarchism": [
+      [1945, 1958]
+    ],
+    "Military Rule": [
+      [1958, 1963],
+      [2003, 2004]
+    ],
+    "Socialism": [
+      [1963, 2003]
+    ],
+    "Liberalism": [
+      [2004, 2005],
+      [2020, null]
+    ],
+    "Liberal-Conservatism": [
+      [2005, 2018]
+    ],
+    "National-Conservatism": [
+      [2018, 2020]
+    ]
+  },
   "Iran": {
     "National-Conservatism": [
       [1946, 1947],
