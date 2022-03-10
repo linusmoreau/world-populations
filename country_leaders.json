@@ -405,6 +405,20 @@
       [1959, null]
     ]
   },
+  "Cyprus": {
+    "Liberal-Conservatism": [
+      [1960, 1977],
+      [1993, 2003],
+      [2013, null]
+    ],
+    "Liberalism": [
+      [1977, 1993],
+      [2003, 2008]
+    ],
+    "Communism": [
+      [2008, 2013]
+    ]
+  },
   "Czechia": {
     "Liberal-Conservatism": [
       [1993, 1998],
