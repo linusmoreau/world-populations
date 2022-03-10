@@ -1141,6 +1141,17 @@
       [2018, null]
     ]
   },
+  "Libya": {
+    "Monarchism": [
+      [1951, 1969]
+    ],
+    "Socialism": [
+      [1969, 2011]
+    ],
+    "Military Rule": [
+      [2011, null]
+    ]
+  },
   "Lithuania": {
     "Liberalism": [
       [1990, 1992],
