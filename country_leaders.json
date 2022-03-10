@@ -1908,6 +1908,17 @@
       [1945, 1951]
     ]
   },
+  "Tunisia": {
+    "Socialism": [
+      [1957, 2011]
+    ],
+    "Social-Democracy": [
+      [2011, 2019]
+    ],
+    "Liberal-Conservatism": [
+      [2019, null]
+    ]
+  },
   "Turkey": {
     "Social-Democracy": [
       [1923, 1950],
