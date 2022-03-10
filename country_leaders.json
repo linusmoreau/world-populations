@@ -29,6 +29,19 @@
       [2005, 2013]
     ]
   },
+  "Algeria": {
+    "Socialism": [
+      [1958, 1965],
+      [1976, 1994],
+      [1999, null]
+    ],
+    "Liberal-Conservatism": [
+      [1994, 1999]
+    ],
+    "Military Rule": [
+      [1965, 1976]
+    ]
+  },
   "Argentina": {
     "Military Rule": [
       [1943, 1946],
