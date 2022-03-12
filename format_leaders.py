@@ -61,7 +61,7 @@ def generate(year):
             tags.append(tag)
 
     data = {
-        "title": "Nominal Ideologies",
+        "title": str(year),
         "hidden": [],
         "background": "#081334",
         "borders": "#000000",
@@ -98,6 +98,8 @@ def generate(year):
                             add_to_tags(tag)
                 except KeyError:
                     pass
+        if ideology == "Colonialism" and len(tags) == 0:
+            tags.append(names["Colonies"][0])
         groups[colour] = {"label": ideology, "paths": tags}
     data["groups"] = groups
     return data
