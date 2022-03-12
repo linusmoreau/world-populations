@@ -527,5 +527,11 @@
   "Tunisia": [
     "Tunisia_1956_2016",
     "Tunisia_French_Colony_1946_1955"
+  ],
+  "Ivory Coast": [
+    "Cote_d_Ivoire_1960_2016"
+  ],
+  "Guinea-Bissau": [
+    "Guinea_Bissau_1974_2016"
   ]
 }
