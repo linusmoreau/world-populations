@@ -51,11 +51,14 @@ def get_map(year, data, driver):
     driver.execute_script("arguments[0].scrollIntoView(true);", slider_button)
     a = selenium.webdriver.ActionChains(driver)
     a.click_and_hold(slider_button).move_by_offset(
-        -pixel_shift(year, int(slider_button.get_attribute("aria-valuemin")),
-                     int(slider_button.get_attribute("aria-valuemax")), slider.size["width"]), 0).release().perform()
+        -pixel_shift(int(slider_button.get_attribute("aria-valuenow")),
+                     int(slider_button.get_attribute("aria-valuemin")),
+                     int(slider_button.get_attribute("aria-valuemax")),
+                     slider.size["width"]), 0).release().perform()
     a.click_and_hold(slider_button).move_by_offset(
         pixel_shift(year, int(slider_button.get_attribute("aria-valuemin")),
-                    int(slider_button.get_attribute("aria-valuemax")), slider.size["width"]), 0).release().perform()
+                    int(slider_button.get_attribute("aria-valuemax")),
+                    slider.size["width"]), 0).release().perform()
 
     wait()
     preview_button = driver.find_element(By.ID, "convert")
