@@ -533,5 +533,59 @@
   ],
   "Guinea-Bissau": [
     "Guinea_Bissau_1974_2016"
+  ],
+  "Cameroon": [
+    "Cameroon_1960_2016",
+    "French_Cameroon_1946_1959",
+    "Northern_Cameroons_1946_1959",
+    "Southern_Cameroons_1946_1959"
+  ],
+  "Chad": [
+    "Chad_1960_1972",
+    "Chad_1973_1993",
+    "Chad_1994_2016"
+  ],
+  "Guinea": [
+    "Equatorial_Guinea_1968_2016",
+    "Guinea_1958_2016",
+    "Guinea_Bissau_1974_2016",
+    "Netherlands_New_Guinea_1949_1962",
+    "Papua_New_Guinea_1975_2016",
+    "Portuguese_Guinea_1946_1973",
+    "Spanish_Guinea_1946_1967",
+    "Territory_of_Papua_New_Guinea_1946_1974"
+  ],
+  "Mali": [
+    "Mali_1960_2016"
+  ],
+  "Mauritania": [
+    "Mauritania_1960_1975",
+    "Mauritania_1976_1978",
+    "Mauritania_1979_2016"
+  ],
+  "Niger": [
+    "Niger_1960_2016",
+    "Nigeria_1960_2016",
+    "Nigeria_British_Colony_1946_1959"
+  ],
+  "Nigeria": [
+    "Nigeria_1960_2016",
+    "Nigeria_British_Colony_1946_1959"
+  ],
+  "Senegal": [
+    "Senegal_1960_2016"
+  ],
+  "Sierra Leone": [
+    "Sierra_Leone_1961_2016",
+    "Sierra_Leone_British_Colony_1946_1960"
+  ],
+  "Sudan": [
+    "Anglo_Egyptian_Sudan_1946_1955",
+    "South_Sudan_2011_2016",
+    "Sudan_1956_2010",
+    "Sudan_2011_2016"
+  ],
+  "Timor Leste": [
+    "Timor_Leste_2002_2016"
   ]
 }
