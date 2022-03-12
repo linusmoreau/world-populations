@@ -76,7 +76,8 @@ def generate(year):
         "legendPosition": "custom",
         "legendX": "64.14",
         "legendY": "192.50",
-        "legendSize": "large",
+        "legendSize": "custom",
+        "legendScale": 0.7,
         "legendStatus": "show",
         "scalingPatterns": True,
         "legendRowsSameColor": True
