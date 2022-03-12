@@ -2,6 +2,8 @@
   "Colonies": [
     "Aden_Protectorate_1946_1966",
     "Algeria_French_Colony_1946_1961",
+    "Anglo_Egyptian_Sudan_1946_1955",
+    "Basutoland_1946_1965",
     "Bechuanaland_Protectorate_1946_1965",
     "Belgian_Congo_1946_1959",
     "Belgian_Ruanda_Urundi_1946_1961",
@@ -34,19 +36,27 @@
     "Jamaica_British_Colony_1946_1961",
     "Libya_Italian_Colony_1946_1950",
     "Madagascar_French_Colony_1946_1959",
+    "Netherlands_New_Guinea_1949_1962",
     "Nigeria_British_Colony_1946_1959",
     "North_Borneo_British_Colony_1946_1962",
+    "Northern_Cameroons_1946_1959",
+    "Northern_Rhodesia_1946_1963",
+    "Nyasaland_1946_1963",
     "Portuguese_Angola_1946_1974",
     "Portuguese_Guinea_1946_1973",
     "Portuguese_Mozambique_1946_1974",
     "Portuguese_Timor_1946_1975",
     "Sarawak_British_Colony_1946_1962",
+    "Sheikhdom_of_Kuwait_1946_1960",
     "Sierra_Leone_British_Colony_1946_1960",
+    "Southern_Cameroons_1946_1959",
+    "Southern_Rhodesia_1946_1964",
     "Spanish_Guinea_1946_1967",
     "Spanish_Morroco_1946_1955",
     "Spanish_Sahara_1946_1975",
     "Sultanate_of_Muscat_and_Oman_British_1946_1970",
     "Swaziland_British_1946_1967",
+    "Tanganyika_1946_1960",
     "Territory_of_Papua_New_Guinea_1946_1974",
     "Tunisia_French_Colony_1946_1955",
     "Uganda_Protectorate_1946_1961"
@@ -225,7 +235,8 @@
     "Jamaica_1962_2016"
   ],
   "Jordan": [
-    "Jordan_1946_2016"
+    "Jordan_1946_2016",
+    "West_Bank_1948_1966"
   ],
   "Kazakhstan": [
     "Kazakhstan_1991_2016"
@@ -448,5 +459,73 @@
   ],
   "Papua New Guinea": [
     "Papua_New_Guinea_1975_2016"
+  ],
+  "Liberia": [
+    "Liberia_1946_2016"
+  ],
+  "Iraq": [
+    "Iraq_1946_2016"
+  ],
+  "Syria": [
+    "Syria_1946_1957",
+    "Syria_1961_1966",
+    "Syria_1967_2016"
+  ],
+  "Egypt": [
+    "Egypt_1946_1957",
+    "Egypt_1961_1966",
+    "Egypt_1967_1978",
+    "Egypt_1979_2016",
+    "Egypt_United_Arab_Republic_1958_1960"
+  ],
+  "Palestine": [
+    "Palestine_1946_1947",
+    "Palestinian_Territories_2005_2016"
+  ],
+  "Israel": [
+    "Israel_1948_1966",
+    "Israel_1967_1978",
+    "Israel_1979_2004",
+    "Israel_2005_2016"
+  ],
+  "Yemen, North": [
+    "Yemen_Arab_Republic_1946_1989"
+  ],
+  "Yemen, South": [
+    "Yemen_People_s_Republic_1967_1989"
+  ],
+  "Yemen": [
+    "Yemen_1990_1999",
+    "Yemen_2000_2016",
+    "Yemen_Arab_Republic_1946_1989",
+    "Yemen_People_s_Republic_1967_1989"
+  ],
+  "Algeria": [
+    "Algeria_1962_2016",
+    "Algeria_French_Colony_1946_1961"
+  ],
+  "Cyprus": [
+    "Cyprus_1960_2016",
+    "Cyprus_British_Colony_1946_1959"
+  ],
+  "Lebanon": [
+    "Lebanon_1946_2016"
+  ],
+  "Libya": [
+    "Libya_1951_1972",
+    "Libya_1973_1993",
+    "Libya_1994_2016",
+    "Libya_Italian_Colony_1946_1950"
+  ],
+  "Morocco": [
+    "Morocco_1956_1957",
+    "Morocco_1958_1975",
+    "Morocco_1976_1978",
+    "Morocco_1979_2016",
+    "Western_Sahara_1979_2016"
+  ],
+  "Tunisia": [
+    "Tunisia_1956_2016",
+    "Tunisia_French_Colony_1946_1955"
   ]
 }
