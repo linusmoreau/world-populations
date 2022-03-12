@@ -568,5 +568,19 @@
   ],
   "Timor Leste": [
     "Timor_Leste_2002_2016"
+  ],
+  "Ethiopia": [
+    "Ethiopia_1946_1951",
+    "Ethiopia_1952_1992",
+    "Ethiopia_1993_2016"
+  ],
+  "Eritrea": [
+    "Eritrea_1993_2016"
+  ],
+  "Kashmir Region": [
+    "Kashmir_Region_1946_1948"
+  ],
+  "Somalia": [
+    "Somalia_1960_2016"
   ]
 }

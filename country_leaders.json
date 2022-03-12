@@ -594,6 +594,25 @@
       [1994, 1995]
     ]
   },
+  "Ethiopia": {
+    "Monarchism": [
+      [1930, 1974]
+    ],
+    "Communism": [
+      [1974, 1991]
+    ],
+    "Social-Democracy": [
+      [1991, 2018]
+    ],
+    "Liberalism": [
+      [2018, null]
+    ]
+  },
+  "Eritrea": {
+    "Socialism": [
+      [1993, null]
+    ]
+  },
   "Finland": {
     "Liberal-Conservatism": [
       [1944, 1946],
@@ -1082,6 +1101,14 @@
   "Jordan": {
     "Monarchism": [
       [1946, null]
+    ]
+  },
+  "Kashmir Region": {
+    "Colonialism": [
+      [1946, 1947]
+    ],
+    "Monarchism": [
+      [1947, 1949]
     ]
   },
   "Kazakhstan": {
@@ -1811,6 +1838,21 @@
   "Singapore": {
     "National-Conservatism": [
       [1965, null]
+    ]
+  },
+  "Somalia": {
+    "Communism": [
+      [1969, 1991]
+    ],
+    "National-Conservatism": [
+      [1991, 1997]
+    ],
+    "Military Rule": [
+      [1997, 2004]
+    ],
+    "Liberal-Conservatism": [
+      [1960, 1969],
+      [2009, null]
     ]
   },
   "South Africa": {
