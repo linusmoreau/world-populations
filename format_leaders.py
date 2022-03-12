@@ -46,7 +46,7 @@ def add_names():
     for country in countries.keys():
         if country not in names:
             names[country] = list(
-                filter(lambda n: country.replace(' ', '_') in n and country.replace(' ', '_') not in names["Colonies"],
+                filter(lambda n: country.replace(' ', '_') in n and n not in names["Colonies"],
                        all_names))
     with open("names.json", "w") as f:
         json.dump(names, f)

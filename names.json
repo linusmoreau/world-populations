@@ -496,17 +496,13 @@
   ],
   "Yemen": [
     "Yemen_1990_1999",
-    "Yemen_2000_2016",
-    "Yemen_Arab_Republic_1946_1989",
-    "Yemen_People_s_Republic_1967_1989"
+    "Yemen_2000_2016"
   ],
   "Algeria": [
-    "Algeria_1962_2016",
-    "Algeria_French_Colony_1946_1961"
+    "Algeria_1962_2016"
   ],
   "Cyprus": [
-    "Cyprus_1960_2016",
-    "Cyprus_British_Colony_1946_1959"
+    "Cyprus_1960_2016"
   ],
   "Lebanon": [
     "Lebanon_1946_2016"
@@ -514,8 +510,7 @@
   "Libya": [
     "Libya_1951_1972",
     "Libya_1973_1993",
-    "Libya_1994_2016",
-    "Libya_Italian_Colony_1946_1950"
+    "Libya_1994_2016"
   ],
   "Morocco": [
     "Morocco_1956_1957",
@@ -525,8 +520,7 @@
     "Western_Sahara_1979_2016"
   ],
   "Tunisia": [
-    "Tunisia_1956_2016",
-    "Tunisia_French_Colony_1946_1955"
+    "Tunisia_1956_2016"
   ],
   "Ivory Coast": [
     "Cote_d_Ivoire_1960_2016"
@@ -546,14 +540,7 @@
     "Chad_1994_2016"
   ],
   "Guinea": [
-    "Equatorial_Guinea_1968_2016",
-    "Guinea_1958_2016",
-    "Guinea_Bissau_1974_2016",
-    "Netherlands_New_Guinea_1949_1962",
-    "Papua_New_Guinea_1975_2016",
-    "Portuguese_Guinea_1946_1973",
-    "Spanish_Guinea_1946_1967",
-    "Territory_of_Papua_New_Guinea_1946_1974"
+    "Guinea_1958_2016"
   ],
   "Mali": [
     "Mali_1960_2016"
@@ -564,24 +551,18 @@
     "Mauritania_1979_2016"
   ],
   "Niger": [
-    "Niger_1960_2016",
-    "Nigeria_1960_2016",
-    "Nigeria_British_Colony_1946_1959"
+    "Niger_1960_2016"
   ],
   "Nigeria": [
-    "Nigeria_1960_2016",
-    "Nigeria_British_Colony_1946_1959"
+    "Nigeria_1960_2016"
   ],
   "Senegal": [
     "Senegal_1960_2016"
   ],
   "Sierra Leone": [
-    "Sierra_Leone_1961_2016",
-    "Sierra_Leone_British_Colony_1946_1960"
+    "Sierra_Leone_1961_2016"
   ],
   "Sudan": [
-    "Anglo_Egyptian_Sudan_1946_1955",
-    "South_Sudan_2011_2016",
     "Sudan_1956_2010",
     "Sudan_2011_2016"
   ],
