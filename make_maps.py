@@ -11,5 +11,5 @@ def make_maps(start, end):
 
 
 if __name__ == "__main__":
-    make_maps(1946, 2022)
+    make_maps(1946, 2023)
 
