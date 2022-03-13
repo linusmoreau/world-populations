@@ -609,5 +609,47 @@
   ],
   "Kenya": [
     "Kenya_1963_2016"
+  ],
+  "Angola": [
+    "Angola_1975_2016"
+  ],
+  "Burundi": [
+    "Burundi_1962_2016"
+  ],
+  "Malawi": [
+    "Malawi_1964_2016"
+  ],
+  "Rwanda": [
+    "Rwanda_1962_2016"
+  ],
+  "Tanzania": [
+    "Tanzania_1964_2016"
+  ],
+  "Uganda": [
+    "Uganda_1962_2016"
+  ],
+  "Zambia": [
+    "Zambia_1964_2016"
+  ],
+  "Congo": [
+    "Congo__DRC_1960_2016"
+  ],
+  "Congo-Brazzaville": [
+    "Congo_1960_2016"
+  ],
+  "Lesotho": [
+    "Lesotho_1966_2016"
+  ],
+  "Eswatini": [
+    "Swaziland_1968_2016"
+  ],
+  "Gabon": [
+    "Gabon_1960_2016"
+  ],
+  "Equatorial Guinea": [
+    "Equatorial_Guinea_1968_2016"
+  ],
+  "Mauritius": [
+    "Mauritius_1968_2016"
   ]
 }
