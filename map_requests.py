@@ -56,7 +56,8 @@ def get_map(year, data, driver):
                      int(slider_button.get_attribute("aria-valuemax")),
                      slider.size["width"]), 0).release().perform()
     a.click_and_hold(slider_button).move_by_offset(
-        pixel_shift(year, int(slider_button.get_attribute("aria-valuemin")),
+        pixel_shift(min(year, int(slider_button.get_attribute("aria-valuemax"))),
+                    int(slider_button.get_attribute("aria-valuemin")),
                     int(slider_button.get_attribute("aria-valuemax")),
                     slider.size["width"]), 0).release().perform()
 
