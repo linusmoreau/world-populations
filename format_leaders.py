@@ -63,7 +63,7 @@ def generate(year):
     data = {
         "title": str(year),
         "hidden": [],
-        "background": "#081334",
+        "background": "#1a1a1a",
         "borders": "#000000",
         "legendFont": "Roboto",
         "legendFontColor": "#ffffff",

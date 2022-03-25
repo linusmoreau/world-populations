@@ -1,13 +1,12 @@
 import selenium.webdriver
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
-from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.by import By
 import time
 
 
 def wait():
-    time.sleep(0.3)
+    time.sleep(10)
 
 
 def pixel_shift(value, mini, maxi, width):
@@ -15,12 +14,11 @@ def pixel_shift(value, mini, maxi, width):
 
 
 def get_maps(dataset):
-    service = Service(executable_path=EdgeChromiumDriverManager().install())
+    service = Service(executable_path="edgedriver_win64/msedgedriver.exe")
     with webdriver.Edge(service=service) as driver:
         driver.implicitly_wait(2)
         driver.get("https://historicalmapchart.net/world-cold-war.html")
         driver.maximize_window()
-        wait()
         for year, data in dataset.items():
             while True:
                 try:
