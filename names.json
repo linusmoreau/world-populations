@@ -1,1 +1,706 @@
-{"Colonies": ["Aden_Protectorate_1946_1966", "Algeria_French_Colony_1946_1961", "Anglo_Egyptian_Sudan_1946_1955", "Bahamas__British_Colony_1946_1972", "Basutoland_1946_1965", "Bechuanaland_Protectorate_1946_1965", "Belgian_Congo_1946_1959", "Belgian_Ruanda_Urundi_1946_1961", "British_Burma_1946_1947", "British_Ceylon_1946_1947", "British_Guyana_1946_1965", "British_Honduras_1946_1980", "British_Kenya_1946_1962", "British_Qatar_1946_1970", "British_Solomon_Islands_Protectorate_1946_1977", "British_Somaliland_1946_1959", "British_Togoland_1946_1956", "British_Trucial_States_1946_1970", "Brunei_British_Protectorate_1946_1983", "Cape_Verde_Portuguese_Colony_1946_1974", "Cyprus_British_Colony_1946_1959", "Dutch_East_Indies_1946_1948", "Dutch_Suriname_1946_1974", "Eritrea_British_Admin_1946_1951", "Fiji_British_Colony_1946_1969", "French_Cameroon_1946_1959", "French_Equatorial_Africa_1946_1959", "French_Indochina_1946_1952", "French_Morroco_1946_1955", "French_Somaliland_1946_1966", "French_Territory_of_the_Afars_and_the_Issas_1967_1976", "French_West_Africa_1946_1957", "French_West_Africa_1958_1959", "Gambia_British_Colony_1946_1964", "Gold_Coast_British_Colony_1946_1956", "Italian_Somaliland_1946_1959", "Jamaica_British_Colony_1946_1961", "Libya_Italian_Colony_1946_1950", "Madagascar_French_Colony_1946_1959", "Malta_British_Colony_1946_1963", "Mauritius_British_Colony_1946_1967", "Netherlands_New_Guinea_1949_1962", "New_Hebrides_1946_1980", "Nigeria_British_Colony_1946_1959", "North_Borneo_British_Colony_1946_1962", "Northern_Cameroons_1946_1959", "Northern_Rhodesia_1946_1963", "Nyasaland_1946_1963", "Portuguese_Angola_1946_1974", "Portuguese_Guinea_1946_1973", "Portuguese_Mozambique_1946_1974", "Portuguese_Timor_1946_1975", "Sao_Tome_and_Principe_Portuguese_1946_1974", "Sarawak_British_Colony_1946_1962", "Sheikhdom_of_Kuwait_1946_1960", "Sierra_Leone_British_Colony_1946_1960", "Southern_Cameroons_1946_1959", "Southern_Rhodesia_1946_1964", "Spanish_Guinea_1946_1967", "Spanish_Morroco_1946_1955", "Spanish_Sahara_1946_1975", "Sultanate_of_Muscat_and_Oman_British_1946_1970", "Swaziland_British_1946_1967", "Republic_of_Tanganyika_1961_1963", "Tanganyika_1946_1960", "Territory_of_Papua_New_Guinea_1946_1974", "Trinidad_and_Tobago_British_Colony_1946_1961", "Tunisia_French_Colony_1946_1955", "Uganda_Protectorate_1946_1961"], "Occupied": ["Germany_French_Occupied_1946_1948", "Germany_Soviet_Occupied_1946_1948", "Germany_USA_Occupied_1946_1948", "Germany_British_Occupied_1946_1948", "Austria_British_Occupied_1946_1954", "Austria_French_Occupied_1946_1954", "Austria_USA_Occupied_1946_1954", "Austria_USSR_Occupied_1946_1954"], "Afghanistan": ["Afghanistan_1946_2016"], "Albania": ["Albania_1946_2016"], "Argentina": ["Argentina_1946_2016"], "Armenia": ["Armenia_1991_2016"], "Australia": ["Australia_1946_2016"], "Austria": ["Austria_1955_2016"], "Azerbaijan": ["Azerbaijan_1991_2016"], "Bangladesh": ["Bangladesh_1971_2016"], "Belarus": ["Belarus_1991_2016"], "Belgium": ["Belgium_1946_2016"], "Belize": ["Belize_1981_2016"], "Bhutan": ["Bhutan_1946_2016"], "Bolivia": ["Bolivia_1946_2016"], "Bosnia and Herzegovina": ["Bosnia_and_Herzegovina_1992_2016"], "Botswana": ["Botswana_1966_2016"], "Brazil": ["Brazil_1946_2016"], "Bulgaria": ["Bulgaria_1946_2016"], "Cambodia": ["Cambodia_1953_2016"], "Canada": ["Canada_1946_1948", "Canada_1949_2016"], "Chile": ["Chile_1946_2016"], "China": ["China_1946_1948", "China_1949_1950", "China_1951_2016"], "Colombia": ["Colombia_1946_2016"], "Costa Rica": ["Costa_Rica_1946_2016"], "Croatia": ["Croatia_1992_2016"], "Cuba": ["Cuba_1946_2016"], "Czechia": ["Czech_Republic_1993_2016"], "Czechoslovakia": ["Czechoslovakia_1946_1992"], "Denmark": ["Denmark_1946_2016", "Greenland_1946_2016"], "Dominican Republic": ["Dominican_Republic_1946_2016"], "Ecuador": ["Ecuador_1946_2016"], "El Salvador": ["El_Salvador_1946_2016"], "Estonia": ["Estonia_1991_2016"], "Finland": ["Finland_1946_2016"], "France": ["France_1946_2016", "French_Guiana_1946_2016"], "Georgia": ["Georgia_1991_2016"], "Germany": ["Germany_Federal_Republic_1949_1989", "Germany_1990_2016"], "Germany, East": ["Germany_Democratic_Republic_1949_1989"], "Ghana": ["Ghana_1957_2016"], "Greece": ["Greece_1946_2016"], "Guatemala": ["Guatemala_1946_2016"], "Guyana": ["Guyana_1966_2016"], "Haiti": ["Haiti_1946_2016"], "Honduras": ["Honduras_1946_2016"], "Hungary": ["Hungary_1946_2016"], "Iceland": ["Iceland_1946_2016"], "India": ["India_1946_1948", "India_1949_2016"], "Indonesia": ["Indonesia_1949_1962", "Indonesia_1963_1975", "Indonesia_1976_2001", "Indonesia_2002_2016"], "Iran": ["Iran_1946_2016"], "Ireland": ["Ireland_1946_2016"], "Italy": ["Italy_1946_2016"], "Jamaica": ["Jamaica_1962_2016"], "Jordan": ["Jordan_1946_2016", "West_Bank_1948_1966"], "Kazakhstan": ["Kazakhstan_1991_2016"], "Korea, North": ["Soviet_Civil_Administration_in_Korea_1946_1948", "North_Korea_1949_1953", "North_Korea_1954_2016"], "Korea, South": ["US_Army_Military_Government_in_Korea_1946_1948", "South_Korea_1949_1953", "South_Korea_1954_2016"], "Kosovo": ["Kosovo_2008_2016"], "Kuwait": ["Kuwait_1961_2016", "Sheikhdom_of_Kuwait_1946_1960"], "Kyrgyzstan": ["Kyrgyzstan_1991_2016"], "Laos": ["Laos_1953_2016"], "Latvia": ["Latvia_1991_2016"], "Lithuania": ["Lithuania_1991_2016"], "Luxembourg": ["Luxembourg_1946_2016"], "Macedonia": ["FYROM_1993_2016"], "Malaya": ["Federation_of_Malaya_1946_1962"], "Malaysia": ["Malaysia_1963_1964", "Malaysia_1965_2016"], "Mexico": ["Mexico_1946_2016"], "Moldova": ["Moldova_1991_2016"], "Mongolia": ["Mongolia_1946_2016"], "Montenegro": ["Montenegro_2006_2016"], "Mozambique": ["Mozambique_1975_2016"], "Myanmar": ["Myanmar_1948_2016"], "Namibia": ["Namibia_1990_2016"], "Nepal": ["Nepal_1946_2016"], "Netherlands": ["Netherlands_1946_2016"], "New Zealand": ["New_Zealand_1946_2016"], "Nicaragua": ["Nicaragua_1946_2016"], "Norway": ["Norway_1946_2016"], "Oman": ["Oman_1971_2016"], "Pakistan": ["Pakistan_1946_1948", "Pakistan_1949_1970", "Pakistan_1971_2016"], "Panama": ["Panama_1946_2016"], "Paraguay": ["Paraguay_1946_2016"], "Peru": ["Peru_1946_2016"], "Philippines": ["Philippines_1946_2016"], "Poland": ["Poland_1946_2016"], "Portugal": ["Portugal_1946_2016"], "Qatar": ["Qatar_1971_2016"], "Romania": ["Romania_1946_2016"], "Russia": ["Russia_1991_2016"], "Saudi Arabia": ["Saudi_Arabia_1946_1999", "Saudi_Arabia_2000_2016"], "Serbia": ["Serbia_2006_2008", "Serbia_2008_2016", "Serbia_and_Montenegro_1993_2006"], "Serbia and Montenegro": ["Serbia_and_Montenegro_1993_2006"], "Singapore": ["Singapore_1965_2016"], "South Africa": ["South_Africa_1946_1989", "South_Africa_1990_2016"], "Slovakia": ["Slovakia_1993_2016"], "Slovenia": ["Slovenia_1992_2016"], "Soviet Union": ["USSR_1946_1990"], "Spain": ["Spain_1946_2016"], "Sri Lanka": ["Sri_Lanka_1948_2016"], "Suriname": ["Suriname_1975_2016"], "Sweden": ["Sweden_1946_2016"], "Switzerland": ["Switzerland_1946_2016"], "Taiwan": ["Taiwan_1949_2016"], "Tajikistan": ["Tajikistan_1991_2016"], "Thailand": ["Thailand_1946_2016"], "Tibet": ["Tibet_1946_1950"], "Turkey": ["Turkey_1946_2016"], "Turkmenistan": ["Turkmenistan_1991_2016"], "Ukraine": ["Ukraine_1991_2016"], "United Arab Emirates": ["United_Arab_Emirates_1971_2016"], "United Kingdom": ["United_Kingdom_1946_2016", "Newfoundland_1946_1948"], "United States": ["United_States_1946_2016"], "Uruguay": ["Uruguay_1946_2016"], "Uzbekistan": ["Uzbekistan_1991_2016"], "Venezuela": ["Venezuela_1946_2016"], "Vietnam": ["Republic_of_Vietnam_1946_1953", "Vietnam_1954_1974", "Vietnam_1975_2016"], "Vietnam, South": ["Republic_of_Vietnam_1954_1974"], "Yugoslavia": ["Yugoslavia_1946_1991", "Yugoslavia_1992_1992", "Serbia_and_Montenegro_1993_2006"], "Zimbabwe": ["Rhodesia_1965_1979", "Zimbabwe_1980_2016"], "Japan": ["Japan_1946_2016"], "Papua New Guinea": ["Papua_New_Guinea_1975_2016"], "Liberia": ["Liberia_1946_2016"], "Iraq": ["Iraq_1946_2016"], "Syria": ["Syria_1946_1957", "Syria_1961_1966", "Syria_1967_2016"], "Egypt": ["Egypt_1946_1957", "Egypt_1961_1966", "Egypt_1967_1978", "Egypt_1979_2016", "Egypt_United_Arab_Republic_1958_1960"], "Palestine": ["Palestine_1946_1947", "Palestinian_Territories_2005_2016"], "Israel": ["Israel_1948_1966", "Israel_1967_1978", "Israel_1979_2004", "Israel_2005_2016"], "Yemen, North": ["Yemen_Arab_Republic_1946_1989"], "Yemen, South": ["Yemen_People_s_Republic_1967_1989"], "Yemen": ["Yemen_1990_1999", "Yemen_2000_2016"], "Algeria": ["Algeria_1962_2016"], "Cyprus": ["Cyprus_1960_2016"], "Lebanon": ["Lebanon_1946_2016"], "Libya": ["Libya_1951_1972", "Libya_1973_1993", "Libya_1994_2016"], "Morocco": ["Morocco_1956_1957", "Morocco_1958_1975", "Morocco_1976_1978", "Morocco_1979_2016", "Western_Sahara_1979_2016"], "Tunisia": ["Tunisia_1956_2016"], "Ivory Coast": ["Cote_d_Ivoire_1960_2016"], "Guinea-Bissau": ["Guinea_Bissau_1974_2016"], "Cameroon": ["Cameroon_1960_2016", "French_Cameroon_1946_1959", "Northern_Cameroons_1946_1959", "Southern_Cameroons_1946_1959"], "Chad": ["Chad_1960_1972", "Chad_1973_1993", "Chad_1994_2016"], "Guinea": ["Guinea_1958_2016"], "Mali": ["Mali_1960_2016"], "Mauritania": ["Mauritania_1960_1975", "Mauritania_1976_1978", "Mauritania_1979_2016"], "Niger": ["Niger_1960_2016"], "Nigeria": ["Nigeria_1960_2016"], "Senegal": ["Senegal_1960_2016"], "Sierra Leone": ["Sierra_Leone_1961_2016"], "Sudan": ["Sudan_1956_2010", "Sudan_2011_2016"], "Timor Leste": ["Timor_Leste_2002_2016"], "Ethiopia": ["Ethiopia_1946_1951", "Ethiopia_1952_1992", "Ethiopia_1993_2016"], "Eritrea": ["Eritrea_1993_2016"], "Kashmir Region": ["Kashmir_Region_1946_1948"], "Somalia": ["Somalia_1960_2016"], "Djibouti": ["Djibouti_1977_2016"], "South Sudan": ["South_Sudan_2011_2016"], "Benin": ["Benin_1960_2016"], "Burkina Faso": ["Burkina_Faso_1960_2016"], "Gambia": ["The_Gambia_1965_2016"], "Togo": ["Togo_1960_2016"], "Central African Republic": ["Central_African_Republic_1960_2016"], "Madagascar": ["Madagascar_1960_2016"], "Kenya": ["Kenya_1963_2016"], "Angola": ["Angola_1975_2016"], "Burundi": ["Burundi_1962_2016"], "Malawi": ["Malawi_1964_2016"], "Rwanda": ["Rwanda_1962_2016"], "Tanzania": ["Tanzania_1964_2016"], "Uganda": ["Uganda_1962_2016"], "Zambia": ["Zambia_1964_2016"], "Congo": ["Congo__DRC_1960_2016"], "Congo-Brazzaville": ["Congo_1960_2016"], "Lesotho": ["Lesotho_1966_2016"], "Eswatini": ["Swaziland_1968_2016"], "Gabon": ["Gabon_1960_2016"], "Equatorial Guinea": ["Equatorial_Guinea_1968_2016"], "Mauritius": ["Mauritius_1968_2016"], "Comoros": ["Comoros_1975_2016"], "Seychelles": ["Seychelles_1976_2016"], "Brunei": ["Brunei_1984_2016"], "Fiji": ["Fiji_1970_2016"], "Vanuatu": ["Vanuatu_1981_2016"], "Bahamas": ["Bahamas_1973_2016"], "Trinidad and Tobago": ["Trinidad_and_Tobago_1962_2016"], "Cape Verde": ["Cape_Verde_1975_2016"], "Sao Tome and Principe": ["Sao_Tome_and_Principe_1975_2016"], "Bahrain": ["Bahrain_1971_2016"], "Malta": ["Malta_1964_2016"], "San Marino": ["San_Marino_1946_2016"], "Andorra": ["Andorra_1946_2016"], "Liechtenstein": ["Liechtenstein_1946_2016"]}
+{
+  "Colonies": [
+    "Aden_Protectorate_1946_1966",
+    "Algeria_French_Colony_1946_1961",
+    "Anglo_Egyptian_Sudan_1946_1955",
+    "Bahamas__British_Colony_1946_1972",
+    "Basutoland_1946_1965",
+    "Bechuanaland_Protectorate_1946_1965",
+    "Belgian_Congo_1946_1959",
+    "Belgian_Ruanda_Urundi_1946_1961",
+    "British_Burma_1946_1947",
+    "British_Ceylon_1946_1947",
+    "British_Guyana_1946_1965",
+    "British_Honduras_1946_1980",
+    "British_Kenya_1946_1962",
+    "British_Qatar_1946_1970",
+    "British_Solomon_Islands_Protectorate_1946_1977",
+    "British_Somaliland_1946_1959",
+    "British_Togoland_1946_1956",
+    "British_Trucial_States_1946_1970",
+    "Brunei_British_Protectorate_1946_1983",
+    "Cape_Verde_Portuguese_Colony_1946_1974",
+    "Cyprus_British_Colony_1946_1959",
+    "Dutch_East_Indies_1946_1948",
+    "Dutch_Suriname_1946_1974",
+    "Eritrea_British_Admin_1946_1951",
+    "Fiji_British_Colony_1946_1969",
+    "French_Cameroon_1946_1959",
+    "French_Equatorial_Africa_1946_1959",
+    "French_Indochina_1946_1952",
+    "French_Morroco_1946_1955",
+    "French_Somaliland_1946_1966",
+    "French_Territory_of_the_Afars_and_the_Issas_1967_1976",
+    "French_West_Africa_1946_1957",
+    "French_West_Africa_1958_1959",
+    "Gambia_British_Colony_1946_1964",
+    "Gold_Coast_British_Colony_1946_1956",
+    "Italian_Somaliland_1946_1959",
+    "Jamaica_British_Colony_1946_1961",
+    "Libya_Italian_Colony_1946_1950",
+    "Madagascar_French_Colony_1946_1959",
+    "Malta_British_Colony_1946_1963",
+    "Mauritius_British_Colony_1946_1967",
+    "Netherlands_New_Guinea_1949_1962",
+    "New_Hebrides_1946_1980",
+    "Nigeria_British_Colony_1946_1959",
+    "North_Borneo_British_Colony_1946_1962",
+    "Northern_Cameroons_1946_1959",
+    "Northern_Rhodesia_1946_1963",
+    "Nyasaland_1946_1963",
+    "Portuguese_Angola_1946_1974",
+    "Portuguese_Guinea_1946_1973",
+    "Portuguese_Mozambique_1946_1974",
+    "Portuguese_Timor_1946_1975",
+    "Sao_Tome_and_Principe_Portuguese_1946_1974",
+    "Sarawak_British_Colony_1946_1962",
+    "Sheikhdom_of_Kuwait_1946_1960",
+    "Sierra_Leone_British_Colony_1946_1960",
+    "Southern_Cameroons_1946_1959",
+    "Southern_Rhodesia_1946_1964",
+    "Spanish_Guinea_1946_1967",
+    "Spanish_Morroco_1946_1955",
+    "Spanish_Sahara_1946_1975",
+    "Sultanate_of_Muscat_and_Oman_British_1946_1970",
+    "Swaziland_British_1946_1967",
+    "Republic_of_Tanganyika_1961_1963",
+    "Tanganyika_1946_1960",
+    "Territory_of_Papua_New_Guinea_1946_1974",
+    "Trinidad_and_Tobago_British_Colony_1946_1961",
+    "Tunisia_French_Colony_1946_1955",
+    "Uganda_Protectorate_1946_1961"
+  ],
+  "Occupied": [
+    "Germany_French_Occupied_1946_1948",
+    "Germany_Soviet_Occupied_1946_1948",
+    "Germany_USA_Occupied_1946_1948",
+    "Germany_British_Occupied_1946_1948",
+    "Austria_British_Occupied_1946_1954",
+    "Austria_French_Occupied_1946_1954",
+    "Austria_USA_Occupied_1946_1954",
+    "Austria_USSR_Occupied_1946_1954"
+  ],
+  "Afghanistan": [
+    "Afghanistan_1946_2016"
+  ],
+  "Albania": [
+    "Albania_1946_2016"
+  ],
+  "Argentina": [
+    "Argentina_1946_2016"
+  ],
+  "Armenia": [
+    "Armenia_1991_2016"
+  ],
+  "Australia": [
+    "Australia_1946_2016"
+  ],
+  "Austria": [
+    "Austria_1955_2016"
+  ],
+  "Azerbaijan": [
+    "Azerbaijan_1991_2016"
+  ],
+  "Bangladesh": [
+    "Bangladesh_1971_2016"
+  ],
+  "Belarus": [
+    "Belarus_1991_2016"
+  ],
+  "Belgium": [
+    "Belgium_1946_2016"
+  ],
+  "Belize": [
+    "Belize_1981_2016"
+  ],
+  "Bhutan": [
+    "Bhutan_1946_2016"
+  ],
+  "Bolivia": [
+    "Bolivia_1946_2016"
+  ],
+  "Bosnia and Herzegovina": [
+    "Bosnia_and_Herzegovina_1992_2016"
+  ],
+  "Botswana": [
+    "Botswana_1966_2016"
+  ],
+  "Brazil": [
+    "Brazil_1946_2016"
+  ],
+  "Bulgaria": [
+    "Bulgaria_1946_2016"
+  ],
+  "Cambodia": [
+    "Cambodia_1953_2016"
+  ],
+  "Canada": [
+    "Canada_1946_1948",
+    "Canada_1949_2016"
+  ],
+  "Chile": [
+    "Chile_1946_2016"
+  ],
+  "China": [
+    "China_1946_1948",
+    "China_1949_1950",
+    "China_1951_2016"
+  ],
+  "Colombia": [
+    "Colombia_1946_2016"
+  ],
+  "Costa Rica": [
+    "Costa_Rica_1946_2016"
+  ],
+  "Croatia": [
+    "Croatia_1992_2016"
+  ],
+  "Cuba": [
+    "Cuba_1946_2016"
+  ],
+  "Czechia": [
+    "Czech_Republic_1993_2016"
+  ],
+  "Czechoslovakia": [
+    "Czechoslovakia_1946_1992"
+  ],
+  "Denmark": [
+    "Denmark_1946_2016",
+    "Greenland_1946_2016"
+  ],
+  "Dominican Republic": [
+    "Dominican_Republic_1946_2016"
+  ],
+  "Ecuador": [
+    "Ecuador_1946_2016"
+  ],
+  "El Salvador": [
+    "El_Salvador_1946_2016"
+  ],
+  "Estonia": [
+    "Estonia_1991_2016"
+  ],
+  "Finland": [
+    "Finland_1946_2016"
+  ],
+  "France": [
+    "France_1946_2016",
+    "French_Guiana_1946_2016"
+  ],
+  "Georgia": [
+    "Georgia_1991_2016"
+  ],
+  "Germany": [
+    "Germany_Federal_Republic_1949_1989",
+    "Germany_1990_2016"
+  ],
+  "Germany, East": [
+    "Germany_Democratic_Republic_1949_1989"
+  ],
+  "Ghana": [
+    "Ghana_1957_2016"
+  ],
+  "Greece": [
+    "Greece_1946_2016"
+  ],
+  "Guatemala": [
+    "Guatemala_1946_2016"
+  ],
+  "Guyana": [
+    "Guyana_1966_2016"
+  ],
+  "Haiti": [
+    "Haiti_1946_2016"
+  ],
+  "Honduras": [
+    "Honduras_1946_2016"
+  ],
+  "Hungary": [
+    "Hungary_1946_2016"
+  ],
+  "Iceland": [
+    "Iceland_1946_2016"
+  ],
+  "India": [
+    "India_1946_1948",
+    "India_1949_2016"
+  ],
+  "Indonesia": [
+    "Indonesia_1949_1962",
+    "Indonesia_1963_1975",
+    "Indonesia_1976_2001",
+    "Indonesia_2002_2016"
+  ],
+  "Iran": [
+    "Iran_1946_2016"
+  ],
+  "Ireland": [
+    "Ireland_1946_2016"
+  ],
+  "Italy": [
+    "Italy_1946_2016"
+  ],
+  "Jamaica": [
+    "Jamaica_1962_2016"
+  ],
+  "Jordan": [
+    "Jordan_1946_2016",
+    "West_Bank_1948_1966"
+  ],
+  "Kazakhstan": [
+    "Kazakhstan_1991_2016"
+  ],
+  "Korea, North": [
+    "Soviet_Civil_Administration_in_Korea_1946_1948",
+    "North_Korea_1949_1953",
+    "North_Korea_1954_2016"
+  ],
+  "Korea, South": [
+    "US_Army_Military_Government_in_Korea_1946_1948",
+    "South_Korea_1949_1953",
+    "South_Korea_1954_2016"
+  ],
+  "Kosovo": [
+    "Kosovo_2008_2016"
+  ],
+  "Kuwait": [
+    "Kuwait_1961_2016",
+    "Sheikhdom_of_Kuwait_1946_1960"
+  ],
+  "Kyrgyzstan": [
+    "Kyrgyzstan_1991_2016"
+  ],
+  "Laos": [
+    "Laos_1953_2016"
+  ],
+  "Latvia": [
+    "Latvia_1991_2016"
+  ],
+  "Lithuania": [
+    "Lithuania_1991_2016"
+  ],
+  "Luxembourg": [
+    "Luxembourg_1946_2016"
+  ],
+  "Macedonia": [
+    "FYROM_1993_2016"
+  ],
+  "Malaya": [
+    "Federation_of_Malaya_1946_1962"
+  ],
+  "Malaysia": [
+    "Malaysia_1963_1964",
+    "Malaysia_1965_2016"
+  ],
+  "Mexico": [
+    "Mexico_1946_2016"
+  ],
+  "Moldova": [
+    "Moldova_1991_2016"
+  ],
+  "Mongolia": [
+    "Mongolia_1946_2016"
+  ],
+  "Montenegro": [
+    "Montenegro_2006_2016"
+  ],
+  "Mozambique": [
+    "Mozambique_1975_2016"
+  ],
+  "Myanmar": [
+    "Myanmar_1948_2016"
+  ],
+  "Namibia": [
+    "Namibia_1990_2016"
+  ],
+  "Nepal": [
+    "Nepal_1946_2016"
+  ],
+  "Netherlands": [
+    "Netherlands_1946_2016"
+  ],
+  "New Zealand": [
+    "New_Zealand_1946_2016"
+  ],
+  "Nicaragua": [
+    "Nicaragua_1946_2016"
+  ],
+  "Norway": [
+    "Norway_1946_2016"
+  ],
+  "Oman": [
+    "Oman_1971_2016"
+  ],
+  "Pakistan": [
+    "Pakistan_1946_1948",
+    "Pakistan_1949_1970",
+    "Pakistan_1971_2016"
+  ],
+  "Panama": [
+    "Panama_1946_2016"
+  ],
+  "Paraguay": [
+    "Paraguay_1946_2016"
+  ],
+  "Peru": [
+    "Peru_1946_2016"
+  ],
+  "Philippines": [
+    "Philippines_1946_2016"
+  ],
+  "Poland": [
+    "Poland_1946_2016"
+  ],
+  "Portugal": [
+    "Portugal_1946_2016"
+  ],
+  "Qatar": [
+    "Qatar_1971_2016"
+  ],
+  "Romania": [
+    "Romania_1946_2016"
+  ],
+  "Russia": [
+    "Russia_1991_2016"
+  ],
+  "Saudi Arabia": [
+    "Saudi_Arabia_1946_1999",
+    "Saudi_Arabia_2000_2016"
+  ],
+  "Serbia": [
+    "Serbia_2006_2008",
+    "Serbia_2008_2016",
+    "Serbia_and_Montenegro_1993_2006"
+  ],
+  "Serbia and Montenegro": [
+    "Serbia_and_Montenegro_1993_2006"
+  ],
+  "Singapore": [
+    "Singapore_1965_2016"
+  ],
+  "South Africa": [
+    "South_Africa_1946_1989",
+    "South_Africa_1990_2016"
+  ],
+  "Slovakia": [
+    "Slovakia_1993_2016"
+  ],
+  "Slovenia": [
+    "Slovenia_1992_2016"
+  ],
+  "Soviet Union": [
+    "USSR_1946_1990"
+  ],
+  "Spain": [
+    "Spain_1946_2016"
+  ],
+  "Sri Lanka": [
+    "Sri_Lanka_1948_2016"
+  ],
+  "Suriname": [
+    "Suriname_1975_2016"
+  ],
+  "Sweden": [
+    "Sweden_1946_2016"
+  ],
+  "Switzerland": [
+    "Switzerland_1946_2016"
+  ],
+  "Taiwan": [
+    "Taiwan_1949_2016"
+  ],
+  "Tajikistan": [
+    "Tajikistan_1991_2016"
+  ],
+  "Thailand": [
+    "Thailand_1946_2016"
+  ],
+  "Tibet": [
+    "Tibet_1946_1950"
+  ],
+  "Turkey": [
+    "Turkey_1946_2016"
+  ],
+  "Turkmenistan": [
+    "Turkmenistan_1991_2016"
+  ],
+  "Ukraine": [
+    "Ukraine_1991_2016"
+  ],
+  "United Arab Emirates": [
+    "United_Arab_Emirates_1971_2016"
+  ],
+  "United Kingdom": [
+    "United_Kingdom_1946_2016",
+    "Newfoundland_1946_1948"
+  ],
+  "United States": [
+    "United_States_1946_2016"
+  ],
+  "Uruguay": [
+    "Uruguay_1946_2016"
+  ],
+  "Uzbekistan": [
+    "Uzbekistan_1991_2016"
+  ],
+  "Venezuela": [
+    "Venezuela_1946_2016"
+  ],
+  "Vietnam": [
+    "Republic_of_Vietnam_1946_1953",
+    "Vietnam_1954_1974",
+    "Vietnam_1975_2016"
+  ],
+  "Vietnam, South": [
+    "Republic_of_Vietnam_1954_1974"
+  ],
+  "Yugoslavia": [
+    "Yugoslavia_1946_1991",
+    "Yugoslavia_1992_1992",
+    "Serbia_and_Montenegro_1993_2006"
+  ],
+  "Zimbabwe": [
+    "Rhodesia_1965_1979",
+    "Zimbabwe_1980_2016"
+  ],
+  "Japan": [
+    "Japan_1946_2016"
+  ],
+  "Papua New Guinea": [
+    "Papua_New_Guinea_1975_2016"
+  ],
+  "Liberia": [
+    "Liberia_1946_2016"
+  ],
+  "Iraq": [
+    "Iraq_1946_2016"
+  ],
+  "Syria": [
+    "Syria_1946_1957",
+    "Syria_1961_1966",
+    "Syria_1967_2016"
+  ],
+  "Egypt": [
+    "Egypt_1946_1957",
+    "Egypt_1961_1966",
+    "Egypt_1967_1978",
+    "Egypt_1979_2016",
+    "Egypt_United_Arab_Republic_1958_1960"
+  ],
+  "Palestine": [
+    "Palestine_1946_1947",
+    "Palestinian_Territories_2005_2016"
+  ],
+  "Israel": [
+    "Israel_1948_1966",
+    "Israel_1967_1978",
+    "Israel_1979_2004",
+    "Israel_2005_2016"
+  ],
+  "Yemen, North": [
+    "Yemen_Arab_Republic_1946_1989"
+  ],
+  "Yemen, South": [
+    "Yemen_People_s_Republic_1967_1989"
+  ],
+  "Yemen": [
+    "Yemen_1990_1999",
+    "Yemen_2000_2016"
+  ],
+  "Algeria": [
+    "Algeria_1962_2016"
+  ],
+  "Cyprus": [
+    "Cyprus_1960_2016"
+  ],
+  "Lebanon": [
+    "Lebanon_1946_2016"
+  ],
+  "Libya": [
+    "Libya_1951_1972",
+    "Libya_1973_1993",
+    "Libya_1994_2016"
+  ],
+  "Morocco": [
+    "Morocco_1956_1957",
+    "Morocco_1958_1975",
+    "Morocco_1976_1978",
+    "Morocco_1979_2016",
+    "Western_Sahara_1979_2016"
+  ],
+  "Tunisia": [
+    "Tunisia_1956_2016"
+  ],
+  "Ivory Coast": [
+    "Cote_d_Ivoire_1960_2016"
+  ],
+  "Guinea-Bissau": [
+    "Guinea_Bissau_1974_2016"
+  ],
+  "Cameroon": [
+    "Cameroon_1960_2016",
+    "French_Cameroon_1946_1959",
+    "Northern_Cameroons_1946_1959",
+    "Southern_Cameroons_1946_1959"
+  ],
+  "Chad": [
+    "Chad_1960_1972",
+    "Chad_1973_1993",
+    "Chad_1994_2016"
+  ],
+  "Guinea": [
+    "Guinea_1958_2016"
+  ],
+  "Mali": [
+    "Mali_1960_2016"
+  ],
+  "Mauritania": [
+    "Mauritania_1960_1975",
+    "Mauritania_1976_1978",
+    "Mauritania_1979_2016"
+  ],
+  "Niger": [
+    "Niger_1960_2016"
+  ],
+  "Nigeria": [
+    "Nigeria_1960_2016"
+  ],
+  "Senegal": [
+    "Senegal_1960_2016"
+  ],
+  "Sierra Leone": [
+    "Sierra_Leone_1961_2016"
+  ],
+  "Sudan": [
+    "Sudan_1956_2010",
+    "Sudan_2011_2016"
+  ],
+  "Timor Leste": [
+    "Timor_Leste_2002_2016"
+  ],
+  "Ethiopia": [
+    "Ethiopia_1946_1951",
+    "Ethiopia_1952_1992",
+    "Ethiopia_1993_2016"
+  ],
+  "Eritrea": [
+    "Eritrea_1993_2016"
+  ],
+  "Kashmir Region": [
+    "Kashmir_Region_1946_1948"
+  ],
+  "Somalia": [
+    "Somalia_1960_2016"
+  ],
+  "Djibouti": [
+    "Djibouti_1977_2016"
+  ],
+  "South Sudan": [
+    "South_Sudan_2011_2016"
+  ],
+  "Benin": [
+    "Benin_1960_2016"
+  ],
+  "Burkina Faso": [
+    "Burkina_Faso_1960_2016"
+  ],
+  "Gambia": [
+    "The_Gambia_1965_2016"
+  ],
+  "Togo": [
+    "Togo_1960_2016"
+  ],
+  "Central African Republic": [
+    "Central_African_Republic_1960_2016"
+  ],
+  "Madagascar": [
+    "Madagascar_1960_2016"
+  ],
+  "Kenya": [
+    "Kenya_1963_2016"
+  ],
+  "Angola": [
+    "Angola_1975_2016"
+  ],
+  "Burundi": [
+    "Burundi_1962_2016"
+  ],
+  "Malawi": [
+    "Malawi_1964_2016"
+  ],
+  "Rwanda": [
+    "Rwanda_1962_2016"
+  ],
+  "Tanzania": [
+    "Tanzania_1964_2016"
+  ],
+  "Uganda": [
+    "Uganda_1962_2016"
+  ],
+  "Zambia": [
+    "Zambia_1964_2016"
+  ],
+  "Congo": [
+    "Congo__DRC_1960_2016"
+  ],
+  "Congo-Brazzaville": [
+    "Congo_1960_2016"
+  ],
+  "Lesotho": [
+    "Lesotho_1966_2016"
+  ],
+  "Eswatini": [
+    "Swaziland_1968_2016"
+  ],
+  "Gabon": [
+    "Gabon_1960_2016"
+  ],
+  "Equatorial Guinea": [
+    "Equatorial_Guinea_1968_2016"
+  ],
+  "Mauritius": [
+    "Mauritius_1968_2016"
+  ],
+  "Comoros": [
+    "Comoros_1975_2016"
+  ],
+  "Seychelles": [
+    "Seychelles_1976_2016"
+  ],
+  "Brunei": [
+    "Brunei_1984_2016"
+  ],
+  "Fiji": [
+    "Fiji_1970_2016"
+  ],
+  "Vanuatu": [
+    "Vanuatu_1981_2016"
+  ],
+  "Bahamas": [
+    "Bahamas_1973_2016"
+  ],
+  "Trinidad and Tobago": [
+    "Trinidad_and_Tobago_1962_2016"
+  ],
+  "Cape Verde": [
+    "Cape_Verde_1975_2016"
+  ],
+  "Sao Tome and Principe": [
+    "Sao_Tome_and_Principe_1975_2016"
+  ],
+  "Bahrain": [
+    "Bahrain_1971_2016"
+  ],
+  "Malta": [
+    "Malta_1964_2016"
+  ],
+  "San Marino": [
+    "San_Marino_1946_2016"
+  ],
+  "Andorra": [
+    "Andorra_1946_2016"
+  ],
+  "Liechtenstein": [
+    "Liechtenstein_1946_2016"
+  ]
+}
