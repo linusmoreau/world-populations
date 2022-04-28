@@ -6,7 +6,7 @@ import time
 
 
 def wait():
-    time.sleep(10)
+    time.sleep(0.3)
 
 
 def pixel_shift(value, mini, maxi, width):
