@@ -260,6 +260,35 @@ def display_table(table, cols, col_type, title, size=24, sortby=1):
         print()
 
 
+def average_gdp_pc_growth(tables):
+    totals = {}
+    pop_totals = {}
+
+    for table in tables.values():
+        for ideology in table["Ideology"]:
+            pop = table["Population (1000s)"][ideology]
+            totals.setdefault(ideology, 0)
+            totals[ideology] += pop * table["GDP Growth (pc)"][ideology]
+            pop_totals.setdefault(ideology, 0)
+            pop_totals[ideology] += pop
+
+    averages = {}
+    for ideology in totals:
+        averages[ideology] = totals[ideology] / pop_totals[ideology]
+    return averages
+
+
+def display_gdp_pc_growth(data):
+    order = sorted(list(data.keys()), key=lambda n: data[n], reverse=True)
+    display_string("Ideology", 24)
+    display_string("GDP Growth (pc)", 24)
+    print()
+    for ideology in order:
+        display_string(ideology, 24)
+        display_percentage(data[ideology], 24)
+        print()
+
+
 if __name__ == '__main__':
     base = 2022
     debugging = False
@@ -268,7 +297,10 @@ if __name__ == '__main__':
     entries = populate(entries, range(3, 5))
     data = organize(keys, entries, 1, 2, range(3, 5))
     name_map = build_name_map(leaders, data)
-    build_table(data, leaders, name_map, 1946)
+    tables = {}
     for year in range(1946, 2019):
         table, cols, col_type = build_table(data, leaders, name_map, year)
-        display_table(table, cols, col_type, str(year))
+        # display_table(table, cols, col_type, str(year))
+        tables[year] = table
+    display_gdp_pc_growth(average_gdp_pc_growth(tables))
+
