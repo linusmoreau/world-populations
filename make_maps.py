@@ -11,5 +11,7 @@ def make_maps(start, end):
 
 
 if __name__ == "__main__":
-    make_maps(1946, 2023)
+    start = input("Start: ")
+    end = input("End: ")
+    make_maps(int(start), int(end) + 1)
 

@@ -109,5 +109,5 @@ def generate(year):
 if __name__ == "__main__":
     load()
     add_names()
-    for year in range(1946, 2023):
+    for year in range(1946, 2024):
         write(year, generate(year))

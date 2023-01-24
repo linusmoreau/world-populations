@@ -7,3 +7,4 @@ Python program for turning historical data into world maps, with each country co
 
 ### Future features
 - Greater generalization, particularly to make it easier to make gradient maps
+- Automatically move downloaded maps to specified folder

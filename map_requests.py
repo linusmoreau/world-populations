@@ -1,35 +1,23 @@
 import selenium.webdriver
+from msedge.selenium_tools.webdriver import WebDriver
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
+from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.by import By
 import time
 
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+
 
 def wait():
-    time.sleep(0.3)
+    time.sleep(0.5)
 
 
 def pixel_shift(value, mini, maxi, width):
     return (value - mini) / (maxi - mini) * width
 
 
-def get_maps(dataset):
-    service = Service(executable_path="edgedriver_win64/msedgedriver.exe")
-    with webdriver.Edge(service=service) as driver:
-        driver.implicitly_wait(2)
-        driver.get("https://historicalmapchart.net/world-cold-war.html")
-        driver.maximize_window()
-        for year, data in dataset.items():
-            while True:
-                try:
-                    get_map(year, data, driver)
-                    break
-                except:
-                    pass
-        wait()
-
-
-def get_map(year, data, driver):
+def get_map(year, data, driver: WebDriver):
     wait()
     save_button = driver.find_element(By.ID, "downup")
     driver.execute_script("arguments[0].scrollIntoView(true);", save_button)
@@ -65,6 +53,7 @@ def get_map(year, data, driver):
     preview_button.click()
 
     wait()
+    wait()
     download_button = driver.find_element(By.ID, "download")
     driver.execute_script("arguments[0].scrollIntoView(true);", download_button)
     download_button.click()
@@ -73,6 +62,24 @@ def get_map(year, data, driver):
     edit_button = driver.find_element(By.ID, "edit")
     driver.execute_script("arguments[0].scrollIntoView(true);", edit_button)
     edit_button.click()
+
+
+def get_maps(dataset):
+    options = Options()
+    service = Service(executable_path=EdgeChromiumDriverManager().install())
+    with webdriver.Edge(service=service, options=options) as driver:
+        driver.get("https://historicalmapchart.net/world-cold-war.html")
+        driver.maximize_window()
+        time.sleep(3)
+        for year, data in dataset.items():
+            while True:
+                try:
+                    print("Getting year", year)
+                    get_map(year, data, driver)
+                    break
+                except:
+                    pass
+        wait()
 
 
 
